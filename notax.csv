@@ -1,0 +1,2662 @@
+ID;Categorie;Service;Numero Surtax;Numero detax
+1;Commerces;01 informatique;;01 44 25 30 01
+2;Commerces;1001 Pneus SARL;0892 49 49 00;05 53 36 89 45
+3;Commerces;1001pneus.fr;0892 49 49 00;05 53 36 89 45
+4;Commerces;11 Rénovations;;04 68 72 67 14
+5;Telecoms;118000;0000 11 80 00;01 56 60 36 63
+6;Telecoms;118218;;01 70 36 01 18
+7;Telecoms;118222;0000 11 82 22;01 70 36 01 18
+8;Commerces;123 Pizza;;04 68 33 96 46
+9;Commerces;13 Habitat;;04 91 42 38 20
+10;Commerces;1euro.com;0825 01 33 01;03 28 09 24 42
+11;Commerces;2 Ai;;04 68 65 42 50
+12;Commerces;3 Dimensions;;04 68 65 08 33
+13;;3200;0000 00 32 00;01 41 86 21 83
+14;;3620;;01 40 88 42 51
+15;Commerces;3A FRANCE;;04 91 60 65 80
+16;Commerces;5th Avenue;;04 68 65 55 39
+17;Commerces;8 A Huit;;04 68 78 11 57
+18;Commerces;8eme Art;;04 68 47 98 98
+19;;A.D.T. France Provider;0825 00 02 04;03 88 18 69 20
+20;;A.P.R.R (Autoroutes Paris-Rhin-Rhône - APPR);0825 39 67 40;04 74 07 42 83
+21;;A.P.R.R (Autoroutes Paris-Rhin-Rhône - APPR);;03 80 77 67 00
+22;;A2C;;01 49 68 15 61
+23;Voyages;ABcroisiere.com;0892 23 27 27;01 73 10 00 09
+24;Voyages;ABcroisiere.com;0826 10 61 06;04 89 05 90 18
+25;;Abelio / Altea;;01 49 42 22 22
+26;Commerces;Abercrombie & Fitch;0800 90 43 22;01 53 76 86 26
+27;;ABR;0825 35 60 00;02 33 80 35 35
+28;;Abrisud;0000 00 32 40;05 62 07 51 55
+29;Voyages;Accor;;01 46 62 44 40
+30;Voyages;Accor;0892 68 89 00;01 55 69 78 64
+31;Voyages;Accor Hotels;0825 01 20 11;01 46 62 44 40
+32;Voyages;Accor Hôtels;0825 01 20 11;01 46 62 24 40
+33;Voyages;Accord;0825 28 29 30;01 41 58 70 00
+34;;Accord Immobilier;;04 68 11 96 96
+35;Commerces;Acer;;01 48 17 45 25
+36;Commerces;Achat VIP;;01 73 77 13 58
+37;;ACM IARD S.A.;0810 14 00 14;01 53 21 51 70
+38;;Acoris;0008 10 00 10;03 29 45 59 59
+39;;Actebis;0008 25 74 75;05 61 17 94 99
+40;Voyages;Action Visas;0892 70 77 10;01 45 88 56 70
+41;;Actis Isolations;0008 00 04 04;04 68 31 31 31
+42;Assurances;Active Assurance;0820 20 22 03;01 46 08 51 00
+43;;Activeille Cofintex;0008 20 42 04;01 49 41 46 06
+44;Commerces;Ad Distribution;;04 68 79 12 51
+45;Commerces;Ada Location;;04 68 27 61 00
+46;Commerces;Ada Location;;04 68 11 71 92
+47;Commerces;Ada Location;;01 41 27 49 40
+48;Commerces;adameteve.fr - Adam Et Eve SASU;0892 69 60 60;03 28 33 54 28
+49;Emploi;Adecco;0821 20 22 01;04 68 10 24 60
+50;;ADEM;;08 00 31 03 11
+51;;ADIL 92;0820 16 92 92;01 46 03 04 98
+52;;ADL Partner;0825 82 62 70;01 72 74 05 24
+53;;ADL Partner;0892 23 48 70;01 41 58 70 00
+54;;Adrexo;;04 78 35 35 39
+55;;Adrexo;;02 38 73 15 00
+56;;Adrexo;;05 56 49 01 53
+57;;ADT France Provider;0825 00 02 04;03 88 18 69 20
+58;;Advisen;;02 47 34 30 69
+59;Voyages;Aer Lingus;0821 23 02 67;01 43 98 80 00
+60;Voyages;Aéroport Bordeaux;;05 56 34 50 50
+61;Voyages;Aéroport de Lille;0891 67 32 10;03 20 49 68 68
+62;Voyages;Aéroport de Nice-Côte d'Azur;0820 42 33 33;04 93 21 42 53
+63;Voyages;Aéroport de Paris Orly;0000 00 39 50;01 70 36 39 50
+64;Voyages;Aéroport Lyon Bron;0826 80 08 26;04 26 00 70 07
+65;Voyages;Aéroport Lyon Saint-Exupery;;04 26 00 70 07
+66;Voyages;Aéroport Lyon Saint-Exupery;;04 72 22 72 21
+67;Voyages;Aéroport Nantes;;02 40 84 80 00
+68;Voyages;Aéroport Toulon/hyères;0825 01 83 87;04 94 00 83 83
+69;Administrations;Affaire Étrangères;0826 08 06 04;01 43 17 53 53
+70;Administrations;Affaires Maritimes;;04 68 49 01 37
+71;;Afibel;0008 92 70 70;03 20 05 34 34
+72;Formation;AFPA;0825 11 11 11;01 64 68 80 46
+73;Formation;AFPA;0825 11 11 11;05 49 77 16 20
+74;Assurances;AG2R La Mondiale;;09 70 80 88 08
+75;Assurances;AG2R Mutuelle Santé;;09 69 32 20 00
+76;Assurances;AG2R Santé;0825 05 20 00;08 00 25 25 02
+77;;Agefiph;0811 37 38 39;01 46 11 00 11
+78;;AGEFOS PME;;04 68 41 63 10
+79;;Agence Diane du Saillant;;01 42 81 38 21
+80;Administrations;Agence Nationale des Titres Sécurisés;0810 90 10 41;03 24 36 69 10
+81;Assurances;AGF;;01 41 86 21 67
+82;Assurances;AGF;;05 61 26 60 88
+83;Assurances;AGF;0811 01 20 01;01 41 86 42 60
+84;Assurances;AGF;0811 01 20 01;01 41 86 42 42
+85;Assurances;AGIRC ARRCO;0820 20 01 89;01 71 72 12 00
+86;Assurances;AGPM Association Générale de Prévoyance Militaire;0000 00 32 22;04 94 61 57 57
+87;;Aidos;;01 70 79 89 10
+88;Voyages;Aigle Azur;;01 41 80 00 25
+89;Voyages;Air Austral;0825 01 30 12;02 62 90 90 90
+90;Voyages;Air Caraibes;0820 83 08 32;05 90 82 47 47
+91;Voyages;Air Caraibes;0820 83 08 32;01 60 21 72 17
+92;Voyages;Air Caraibes;0820 83 58 35;01 47 83 37 44
+93;Voyages;Air Corsica;0825 35 35 35;04 95 29 07 66
+94;Voyages;Air Corsica;0825 35 35 35;04 95 20 95 20
+95;Voyages;Air France;0820 82 08 20;01 42 99 21 01
+96;Voyages;Air France;0825 86 48 64;01 49 60 70 80
+97;Voyages;Air France;0820 82 08 20;01 71 23 08 46
+98;Voyages;Air France;0899 96 48 45;04 72 22 76 00
+99;Voyages;Air France;0825 86 48 64;09 69 39 75 36
+100;Voyages;Air France - KLM;0000 00 36 54;09 69 39 02 15
+101;Voyages;Air France / KLM;;01 45 42 82 03
+102;Voyages;Air France / Saphir;;04 93 18 53 43
+103;Voyages;Air France KLM;;01 48 59 20 00
+104;Voyages;Air India;0800 90 30 77;01 48 16 49 75
+105;Voyages;Air Madagascar;0892 68 00 14;02 62 21 05 21
+106;Voyages;Air Transat;0825 12 02 48;01 58 91 43 56
+107;Voyages;Airbnb;;01 84 88 40 00
+108;Commerces;Airwell;0891 70 04 07;01 39 44 78 00
+109;Commerces;Alamo Location de voiture;0826 10 24 27;01 45 32 98 98
+110;Commerces;Alapage.com;;01 41 77 65 00
+111;Commerces;Alert Technik;0825 01 55 52;01 34 30 76 46
+112;;Alifax;0821 44 44 20;01 42 80 28 12
+113;Voyages;Alitalia;0892 65 56 55;01 42 33 03 80
+114;Commerces;All-batteries.fr;0890 71 02 30;04 76 75 97 16
+115;;Allez-Simple.com;0810 15 01 70;03 87 65 11 98
+116;Assurances;Alliance Habitat;0805 02 02 59;03 21 70 01 24
+117;Assurances;Allianz;0820 90 49 04;09 80 98 09 80
+118;Banques;Allianz Banque;;09 74 75 16 16
+119;Assurances;Allianz Vie;;04 72 68 68 72
+120;;Allocine;;01 40 30 20 10
+121;;Allopass;;01 73 03 89 55
+122;Commerces;Allopneus.com - Allo Pneus;0892 46 09 00;04 88 72 67 22
+123;Commerces;Allopneus.com - Allo Pneus;0892 43 10 07;04 88 72 67 22
+124;;Alptis;0810 04 40 00;04 72 36 16 20
+125;;Altares;0825 80 58 02;04 72 65 15 00
+126;Commerces;Amazon;;01 70 70 05 04
+127;Commerces;Amazon;0800 94 77 15;01 56 60 46 00
+128;Commerces;Amazon.fr;;01 56 60 46 00
+129;Commerces;Amazon.fr;;01 61 08 12 34
+130;Voyages;American Airlines;0826 46 09 50;01 55 17 43 41
+131;Voyages;American Express;0825 05 05 00;01 46 62 45 60
+132;Voyages;American Express;;01 47 77 30 00
+133;Voyages;American Express;0825 05 05 00;01 46 62 45 81
+134;Voyages;American Express;0825 05 05 00;01 46 62 45 68
+135;Voyages;American Express;0825 05 05 00;01 46 62 45 66
+136;Voyages;American Express;0825 05 05 00;01 46 62 45 65
+137;Voyages;American Express;0825 05 05 00;01 46 62 45 63
+138;Assurances;AMF - Assurance Mutuelle des Fonctionnaires;0820 35 97 72;08 00 23 15 00
+139;Assurances;Amis Assistance;0825 30 33 33;04 72 43 66 52
+140;;Amplitude;0892 69 96 59;03 20 12 81 00
+141;Assurances;AMV;0820 82 07 50;05 56 12 93 38
+142;Assurances;AMV Assurance;0820 82 07 50;05 56 34 64 64
+143;Assurances;AMV Legend;0821 82 70 10;05 56 18 42 21
+144;Voyages;ANCV Agence Nationale Chèques Vacances;0825 84 43 44;01 34 29 51 02
+145;;Ankama Games;0899 23 12 34;03 20 36 36 09
+146;Administrations;ANPE - ASSEDIC - Pôle Emploi;0000 00 39 49;03 80 59 61 15
+147;;Antargaz;0008 20 30 06;01 41 86 13 97
+148;;Antargaz;0008 20 30 06;01 41 86 13 95
+149;;Antargaz;;04 68 40 55 00
+150;;Anteus;0008 25 05 98;03 20 36 24 70
+151;;Anteus;0008 25 05 98;03 20 36 36 00
+152;;AOL - America OnLine;;03 21 13 69 05
+153;;Aon Hewitt;;01 47 83 10 10
+154;Banques;APC Courtage;0810 22 32 42;09 69 32 22 52
+155;Assurances;Apicil;0825 56 15 61;04 72 27 71 71
+156;Assurances;Apicil prévoyance;0820 02 58 42;0974 500 700
+157;Commerces;Apple;;08 05 54 00 03
+158;Commerces;Apple;0805 54 00 03;01 56 52 96 00
+159;Commerces;Apple Store Velizy;0805 54 20 00;01 30 70 77 00
+160;;Apréva;;03 27 22 82 02
+161;;Apria RSA;0810 00 09 37;01 41 58 90 00
+162;Assurances;APRIL Assurance santé;;04 26 10 13 30
+163;;Aprr.fr;0000 00 36 20;03 80 77 01 01
+164;;Aquarelle;0008 20 30 06;03 44 54 86 40
+165;Commerces;Aramisauto;0811 11 28 22;01 49 69 23 84
+166;Commerces;Archos;0892 70 40 01;01 70 20 00 30
+167;;AREA;0008 26 88 72;04 72 35 32 00
+168;Commerces;Armenager.com;0892 70 20 01;01 48 11 83 68
+169;Assurances;ARRCO;0820 20 01 89;01 44 67 12 00
+170;;Ascier;0008 10 81 06;01 64 12 32 72
+171;;Asolution;0008 92 49 46;01 84 16 00 91
+172;Administrations;Assedic;;01 46 84 10 82
+173;Administrations;Assedic;;01 46 84 10 66
+174;Administrations;Assedic;;01 41 86 21 60
+175;Administrations;Assedic;;01 46 84 10 81
+176;Administrations;Assedic;;01 46 84 10 66
+177;Administrations;Assedic;;01 41 86 21 62
+178;;Assentek;0892 16 00 91;03 88 75 37 40
+179;;Assor;;01 56 91 48 31
+180;Assurances;ASSU 2000;;01 48 10 46 74
+181;Assurances;Assurance Suravenir;;02 28 09 87 60
+182;Assurances;Assurances Chômage;;01 46 84 10 73
+183;Assurances;Assurances GMF;0820 80 48 06;02 38 72 33 03
+184;Assurances;Assurone;;01 39 34 90 30
+185;Assurances;Assurpeople;0892 70 04 60;01 41 03 31 00
+186;;Astérix;;03 44 62 32 94
+187;;Asus France;;01 70 94 94 00
+188;Telecoms;AT&T;;01 41 86 21 64
+189;;Ateliers Photo Ciné MS;;01 44 75 73 73
+190;;Atlantic Industrie Bip Service;0810 48 54 85;02 51 44 34 96
+191;;Atlas for Men;0892 79 98 00;02 32 29 45 98
+192;;Atos Worldline;;03 20 60 79 79
+193;;Atral;;04 76 45 32 76
+194;;Atral Système Diagral;0825 82 78 98;09 63 29 83 47
+195;;Aubert;0008 25 82 56;03 89 38 32 00
+196;;Aubert;0008 25 82 56;09 69 32 06 58
+197;Commerces;Auchan;0825 28 29 30;03 28 38 58 00
+198;Commerces;Auchan Mobile;;01 76 61 55 22
+199;;Audiens;0008 11 65 50;01 73 17 37 59
+200;;Auditcom;0820 00 71 71;03 85 39 04 00
+201;Voyages;Australie à la carte;0825 82 22 95;04 91 59 90 03
+202;Voyages;Australie à la carte;0825 82 22 95;01 53 68 90 77
+203;;Auto-ies.com;0820 13 77 77;04 70 30 87 60
+204;Voyages;AutoEscape;0899 56 56 50;04 90 09 28 28
+205;Voyages;Autoescape;0892 46 46 10;04 90 09 28 78
+206;Voyages;Autoescape;0820 15 03 00;04 90 09 51 87
+207;;automatisme-online.fr;0810 20 01 60;03 88 48 64 70
+208;;Autoroute du Sud de la France - ASF;0000 00 36 05;05 53 77 58 58
+209;;Autoroutes Vinci;0825 82 08 88;05 49 00 38 93
+210;;Autosphère;0008 11 70 80;03 66 32 02 75
+211;;Avast;;03 81 61 69 07
+212;;Avidsen;0892 70 13 69;02 47 34 30 69
+213;;Avilog Solutions;0820 20 53 40;01 55 35 15 55
+214;;Avis;;04 93 21 42 80
+215;;Avis;;01 70 03 91 10
+216;;Avis;0821 23 07 60;01 70 92 20 20
+217;;Aviva;0800 84 48 44;01 43 71 76 19
+218;;Avosdim;0008 92 49 00;09 72 19 13 59
+219;;AVT Acces Vital Technologie;0008 91 70 50;04 42 36 90 23
+220;;Award Computer;0008 20 82 07;05 34 25 05 58
+221;Assurances;AXA Assurance;0800 71 08 14;01 40 50 60 70
+222;Assurances;AXA Banque;0820 02 42 40;01 71 25 93 60
+223;Assurances;AXA Banque;0820 02 42 40;01 49 68 15 98
+224;Assurances;AXA Banque;0820 02 42 40;01 49 68 15 80
+225;Assurances;AXA Assurance;;01 41 86 92 56
+226;;Ayers Rock Café;0008 20 32 02;04 78 29 36 50
+227;Voyages;B And B;0892 78 81 11;02 51 79 43 88
+228;Voyages;B&B;0892 78 81 11;02 51 79 43 88
+229;Voyages;B&B Hotels;0892 70 75 28;03 20 05 07 54
+230;Voyages;B&B Hotels;0892 78 29 29;01 72 36 51 06
+231;Voyages;B&B Hotels;0892 70 75 72;04 93 20 70 02
+232;Voyages;B&B Hotels;0892 78 80 12;04 27 04 44 44
+233;Voyages;B&B Hotels;;05 53 98 69 78
+234;Voyages;B&B Hotels;0892 78 29 29;09 69 36 60 48
+235;Voyages;B&B Hotels;0892 70 22 18;02 98 33 76 18
+236;Telecoms;B&You - B and You;;09 81 66 26 66
+237;;Babou;0008 26 28 62;02 31 83 32 01
+238;;Babou;0826 28 62 86;02 31 83 32 01
+239;;baby-walz.com;0008 92 35 05;03 88 81 77 95
+240;;Bakker;;09 74 50 71 63
+241;;Bakker;;03 20 66 12 70
+242;Banques;Banque Accord;0892 68 13 00;03 28 38 58 00
+243;Banques;Banque Accord;;03 28 38 56 94
+244;Banques;Banque Accord;0825 28 29 30;09 69 39 54 32
+245;Banques;Banque Accord;0825 28 27 27;01 72 74 05 48
+246;Banques;Banque Accord;0825 28 27 27;01 73 60 01 83
+247;Banques;Banque Accord;0825 28 29 30;09 69 39 54 32
+248;Banques;Banque Accord Oney;0000 00 36 70;03 59 30 60 41
+249;Banques;Banque Casino;;09 69 36 02 02
+250;Banques;Banque Casino;;09 69 36 02 02
+251;Banques;Banque Casino;;01 44 54 77 77
+252;Banques;Banque Casino;0825 95 49 85;09 69 32 82 68
+253;Banques;Banque Courtois;0892 89 68 96;04 92 43 24 00
+254;Banques;Banque Edel;0820 80 02 08;03 90 29 22 22
+255;Banques;Banque Française Mutualiste - BFM;0821 22 25 00;01 46 76 96 03
+256;Banques;Banque Palatine;0892 89 15 15;01 55 27 94 94
+257;Banques;Banque Populaire;;01 41 86 42 35
+258;Banques;Banque Populaire;;01 46 84 10 26
+259;Banques;Banque Populaire;;01 41 86 92 78
+260;Banques;Banque Populaire;0820 36 10 40;04 68 71 74 97
+261;Banques;Banque Populaire;0820 36 10 19;04 68 50 96 44
+262;Banques;Banque Populaire;;04 68 68 47 66
+263;Banques;Banque Populaire;0820 03 62 58;04 66 33 27 27
+264;Banques;Banque Populaire;0892 89 63 39;01 41 86 42 33
+265;Banques;Banque Populaire;0892 89 61 85;01 30 14 69 29
+266;Banques;Banque Populaire Aquitaine Centre Atlantique;;05 56 69 25 50
+267;Banques;Banque Populaire de Bourgogne;;03 80 48 50 50
+268;Banques;Banque Populaire du Sud;0820 03 61 79;04 67 09 27 90
+269;Banques;Banque Populaire du Sud;0820 03 62 03;04 66 76 44 00
+270;Banques;Banque Populaire Lorraine Champagne;0890 90 90 90;09 80 98 00 13
+271;Banques;Banque Populaire Lorraine Champagne - BPLC;0820 33 70 20;03 83 34 35 73
+272;Banques;Banque Populaire Occitane;0821 00 05 01;05 81 22 00 00
+273;Banques;Banque Populaire Provençale et Corse;0820 33 74 87;04 95 60 00 58
+274;Banques;Banque Populaire Provençale et Corse - BPPC;0820 33 74 09;04 91 30 24 30
+275;Banques;Banque Privée Européenne - BPE;0825 85 08 51;04 42 17 11 90
+276;Banques;Barclays Bank;;01 53 67 82 20
+277;;Barebone X;0008 92 69 07;04 37 24 17 82
+278;;Batteriedeportable.com;0892 43 00 22;06 74 92 59 32
+279;Presse;Bayard;;03 59 56 75 35
+280;Presse;Bayard About;;01 74 31 60 60
+281;Presse;Bayard Presse;;01 74 31 15 01
+282;Telecoms;BBox;;06 53 19 09 13
+283;;BDV.fr;0892 88 89 49;01 42 61 66 61
+284;;Becquet;;03 20 10 19 76
+285;;Becquet;;03 20 10 53 80
+286;;BEI France SARL;0892 43 10 92;09 75 82 29 97
+287;Voyages;Belambra;0890 64 13 14;01 77 70 90 00
+288;Voyages;Belambra Clubs;0825 80 88 08;04 94 21 72 82
+289;;Belkin;0825 54 00 26;01 48 63 78 87
+290;;Benq;;01 49 93 25 47
+291;Commerces;Besson Chaussures;0825 35 11 34;04 73 44 04 40
+292;Commerces;Besson Chaussures;0825 35 11 34;05 63 66 87 63
+293;Commerces;Besson Chaussures;0825 35 11 34;05 34 25 13 51
+294;Commerces;Besson Chaussures;0825 35 11 34;05 61 72 44 50
+295;Commerces;Besson Chaussures;0825 35 11 34;01 60 86 93 78
+296;Commerces;Besson Chaussures;0825 35 11 34;02 40 67 96 97
+297;Commerces;Besson Chaussures;0825 35 11 34;04 43 55 05 24
+298;Voyages;Best Western Premier;;01 42 96 23 23
+299;Banques;BforBank;0000 00 39 11;09 74 75 75 00
+300;Commerces;Bhdiscount.com;0008 92 23 96;04 86 94 85 94
+301;Commerces;BHV;;01 49 60 44 44
+302;;Bihr SAS;0821 00 05 55;03 89 70 30 00
+303;Loisirs;billetreduc.com;0008 92 49 00;01 90 92 50 29
+304;;Bis Télévision;0008 25 02 02;01 49 22 20 01
+305;;Black et Decker;0008 99 70 10;04 78 66 47 00
+306;;Blanc Marine;0892 68 18 01;01 43 59 16 98
+307;Commerces;Blanche Porte;0892 70 21 02;03 59 57 40 67
+308;Commerces;Blanche Porte;;03 20 28 20 28
+309;;Blanloeil;0810 25 49 30;02 41 70 48 54
+310;;Blédina;;09 80 10 81 02
+311;;Bleu Bonheur Senior;0892 70 55 00;03 44 68 21 60
+312;;Blokos;0820 16 07 07;05 56 07 07 07
+313;;Blue d'American Express;;01 47 77 70 70
+314;;BluePaid;0892 16 06 00;01 83 62 63 22
+315;Banques;BNP;;04 93 40 55 66
+316;Banques;BNP;0820 82 00 01;02 97 29 03 00
+317;Banques;BNP;0820 82 00 01;04 97 01 13 70
+318;Banques;BNP;0820 84 08 30;02 62 33 07 88
+319;Banques;BNP;0820 82 00 01;02 41 05 53 02
+320;Banques;BNP Paribas;0820 82 00 01;01 60 93 13 10
+321;Banques;BNP Paribas;0820 82 00 01;05 62 87 43 09
+322;Banques;BNP Paribas;;03 21 19 12 50
+323;Banques;BNP Paribas;;03 23 99 34 80
+324;Banques;BNP Paribas;0820 82 00 01;04 42 41 13 50
+325;Banques;BNP Paribas;0820 82 00 01;02 99 12 23 14
+326;Banques;BNP Paribas;0820 82 00 01;04 79 34 33 24
+327;Banques;BNP Paribas;0820 82 00 01;03 28 44 03 50
+328;Banques;BNP Paribas;0820 82 00 01;03 27 75 73 02
+329;Banques;BNP Paribas;;04 90 14 73 67
+330;Banques;BNP Paribas;;04 90 14 74 04
+331;Banques;BNP Paribas;;04 90 80 92 32
+332;Banques;BNP Paribas;;04 90 80 92 33
+333;Banques;BNP Paribas;;02 33 77 43 61
+334;Banques;BNP Paribas;0820 82 00 01;04 91 66 63 93
+335;Banques;BNP Paribas;0820 82 00 01;04 96 13 02 32
+336;Banques;BNP Paribas;0820 82 00 01;01 34 25 54 26
+337;Banques;BNP Paribas;0820 82 00 01;02 51 93 44 00
+338;Banques;BNP Paribas;;04 76 92 13 30
+339;Banques;BNP Paribas;;04 76 92 13 33
+340;Banques;BNP Paribas;0820 82 00 01;01 55 43 44 92
+341;Banques;BNP Paribas;;01 53 38 94 85
+342;;Bodybloom;;03 59 57 55 50
+343;;Bonne Maman;;05 65 10 10 10
+344;;Bonprix.fr;0892 35 01 50;09 69 39 32 35
+345;;Booking.com;;08 05 10 30 61
+346;;Bosal;0825 82 56 26;03 21 61 62 63
+347;;Bosch;0811 22 42 25;01 64 25 04 16
+348;;Bosch;0892 69 80 09;01 85 57 00 00
+349;;Bosch Rexroh SAS;0825 72 12 34;01 72 99 71 53
+350;Commerces;Boulanger;0825 33 16 13;03 20 62 61 10
+351;Commerces;Boulanger;0825 85 08 50;04 77 72 42 42
+352;Commerces;Boulanger;0825 85 08 50;04 66 04 27 04
+353;Commerces;Boulanger;0825 85 08 50;03 20 49 46 46
+354;Commerces;Boulanger;0825 85 08 50;03 85 20 06 20
+355;Commerces;Boulanger;0825 85 08 50;03 85 45 50 90
+356;Commerces;Boulanger;0825 85 08 50;03 21 11 42 80
+357;Commerces;Boulanger;0825 85 08 50;03 28 69 73 90
+358;Commerces;Boulanger;0825 85 08 50;03 87 52 21 21
+359;Commerces;Boulanger;0825 85 08 50;01 30 49 29 00
+360;Commerces;Boulanger;0825 85 08 50;03 68 35 05 09
+361;Commerces;Boulanger;0825 85 08 50;05 81 76 14 00
+362;Commerces;Boulanger;0825 85 08 50;05 59 81 36 48
+363;Commerces;Boulanger;0825 85 08 50;01 60 07 80 10
+364;Commerces;Boulanger;;02 31 35 80 10
+365;Commerces;Boulanger;0825 85 08 50;01 41 78 95 10
+366;Commerces;Boulanger;0825 85 08 50;04 94 00 18 30
+367;Commerces;Boulanger;0825 85 08 50;03 55 35 14 00
+368;Commerces;Boulanger;0825 85 08 50;04 73 44 52 40
+369;Commerces;Boulanger;0825 85 08 50;02 51 24 00 40
+370;Commerces;Boulanger;0825 85 08 50;04 75 82 82 30
+371;Commerces;Boulanger;0825 85 08 50;02 97 40 76 40
+372;Commerces;Boulanger;0825 85 08 50;05 55 38 84 10
+373;Commerces;Boulanger;;01 75 72 14 00
+374;Commerces;Boulanger.fr;0825 85 08 50;03 20 49 47 90
+375;;Bourse des Vols;0892 23 03 13;01 53 40 12 92
+376;;bourse-des-vols.com - Viaticom;0892 88 89 49;01 42 61 66 61
+377;;bourse-des-voyages.com;0892 88 89 49;01 42 61 66 61
+378;Commerces;Boursorama;;01 46 09 57 35
+379;Commerces;Boursorama;;01 46 09 57 35
+380;Telecoms;Bouygues Telecom;0000 00 06 14;01 41 90 87 01
+381;Telecoms;Bouygues Telecom;0668 63 46 34;08 00 77 30 77
+382;Telecoms;Bouygues Telecom;0825 32 73 26;01 47 56 53 00
+383;Telecoms;Bouygues Telecom;;06 53 19 09 13
+384;Telecoms;Bouygues Telecom;;01 41 90 87 42
+385;Telecoms;Bouygues Telecom;;01 39 26 75 00
+386;Telecoms;Bouygues Telecom;0000 00 06 14;01 41 90 88 91
+387;Telecoms;Bouygues Telecom;;09 81 66 09 81
+388;Telecoms;Bouygues Telecom BBox;0000 00 06 11;01 41 90 87 42
+389;;BPLC;0008 20 33 70;03 83 34 35 73
+390;Commerces;Brandalley;;09 75 17 95 55
+391;;Brandt;0892 02 88 01;09 69 39 25 25
+392;Banques;BRED;;01 41 86 26 11
+393;Banques;BRED;;01 46 69 88 45
+394;Banques;BRED;;01 56 72 74 44
+395;Banques;Bred - Banque Populaire;0820 33 61 18;01 53 02 99 22
+396;Banques;BRED Direct;;01 46 84 10 04
+397;Banques;BRED Espagne;0820 33 61 00;01 41 86 26 00
+398;Commerces;BricoMac.com;0008 25 56 67;01 77 10 42 92
+399;Commerces;Bricomarché;;04 68 25 78 10
+400;Commerces;Bricomarché;;04 68 27 53 80
+401;Commerces;Briconautes;0008 99 23 63;04 92 42 44 44
+402;Telecoms;British Telecom;;01 58 13 85 00
+403;;Brother France;;01 78 40 51 20
+404;;Bruneau;0008 25 06 02;01 60 92 40 53
+405;;BS Diffusion;0008 25 89 58;04 42 81 08 10
+406;;Bubendorf;0825 88 85 00;03 89 69 63 21
+407;Voyages;Budget;;09 77 40 32 32
+408;Voyages;Budgetair;0892 02 37 77;09 75 18 16 18
+409;;Buffalo Technology France;0811 65 02 20;01 39 16 72 71
+410;Commerces;BUT;0826 25 25 25;09 69 39 04 30
+411;Commerces;BUT;;04 68 65 64 64
+412;;Butagaz Proxigaz;0811 88 81 06;05 63 32 46 20
+413;;C chez vous;0820 31 80 68;04 77 45 83 18
+414;;C.P.E.S.;0008 10 72 51;05 61 52 09 88
+415;;Cabinet d'Expertise SOUAL;0008 20 00 07;05 61 54 26 62
+416;;Cabinet d'Expertise SOUAL;0820 00 07 01;05 61 54 26 62
+417;;Cacao;;01 75 00 19 55
+418;Administrations;CAF;;04 72 35 62 22
+419;Administrations;CAF;;02 32 38 99 00
+420;Administrations;CAF;0825 25 48 10;04 72 35 62 49
+421;Administrations;CAF;0825 25 46 10;04 72 35 62 47
+422;Administrations;CAF;0825 25 44 10;04 72 35 62 45
+423;Administrations;CAF;0825 25 41 10;04 72 35 62 42
+424;Administrations;CAF;0825 25 39 10;04 72 35 62 40
+425;Administrations;CAF;0825 25 37 10;04 72 35 62 38
+426;Administrations;CAF;0825 25 34 10;04 72 35 62 35
+427;Administrations;CAF;0825 25 32 10;04 72 35 62 33
+428;Administrations;CAF;0825 25 86 10;04 72 35 62 87
+429;Administrations;CAF;0825 25 73 10;04 72 35 62 74
+430;Administrations;CAF;0825 25 51 10;04 72 35 62 52
+431;Administrations;CAF;0825 25 42 10;04 72 35 62 43
+432;Administrations;CAF;0825 25 67 10;04 72 35 62 68
+433;Administrations;CAF;0825 25 29 10;04 72 35 62 29
+434;Administrations;CAF;0825 25 27 10;04 72 35 62 27
+435;Administrations;CAF;0825 25 26 10;04 72 35 62 26
+436;Administrations;CAF;0825 25 25 10;04 72 35 62 25
+437;Administrations;CAF;0825 25 22 10;04 72 35 62 22
+438;Administrations;CAF;0825 25 20 10;04 72 35 62 20
+439;Administrations;CAF;0825 25 18 10;04 72 35 62 18
+440;Administrations;CAF;0825 25 16 10;04 72 35 62 16
+441;Administrations;CAF;0825 25 13 10;04 72 35 62 13
+442;Administrations;CAF;0821 01 99 67;03 88 37 68 70
+443;Administrations;CAF;0825 25 11 10;04 72 35 62 11
+444;Administrations;CAF;0825 25 09 10;04 72 35 62 09
+445;Administrations;CAF;0825 25 07 10;04 72 35 62 07
+446;Administrations;CAF;0825 25 06 10;04 72 35 62 06
+447;Administrations;CAF;0825 25 04 10;04 72 35 62 04
+448;Administrations;CAF;0825 25 02 10;04 72 35 62 02
+449;Administrations;CAF;0825 25 49 10;04 72 35 62 50
+450;Administrations;CAF;0825 25 52 10;04 72 35 62 53
+451;Administrations;CAF;0825 25 54 10;04 72 35 62 55
+452;Administrations;CAF;0825 25 56 10;04 72 35 62 57
+453;Administrations;CAF;0825 25 58 10;04 72 35 62 59
+454;Administrations;CAF;0825 25 60 10;04 72 35 62 61
+455;Administrations;CAF;0825 25 65 10;04 72 35 62 63
+456;Administrations;CAF;0825 25 65 10;02 99 29 17 52
+457;Administrations;CAF;0825 25 70 10;04 72 35 62 71
+458;Administrations;CAF;0825 25 72 10;04 72 35 62 73
+459;Administrations;CAF;0825 25 74 10;04 72 35 62 75
+460;Administrations;CAF;0825 25 76 10;04 72 35 62 77
+461;Administrations;CAF;0825 25 77 10;04 72 35 62 78
+462;Administrations;CAF;0825 25 79 10;04 72 35 62 80
+463;Administrations;CAF;0825 25 80 10;04 72 35 62 81
+464;Administrations;CAF;0820 25 83 10;04 94 36 38 99
+465;Administrations;CAF;0825 25 83 10;04 72 35 62 84
+466;Administrations;CAF;0825 25 85 10;04 72 35 62 86
+467;Administrations;CAF;0825 25 88 10;04 72 35 62 89
+468;Administrations;CAF;0825 25 92 10;04 72 35 62 93
+469;Administrations;CAF;0825 25 94 10;04 72 35 62 95
+470;Administrations;CAF;0810 25 77 10;02 43 39 11 73
+471;Administrations;CAF - Caisse Allocation Familial;0810 25 77 10;01 45 71 20 00
+472;Administrations;Caisse d'Allocations du Gers;0820 25 32 10;05 62 61 60 01
+473;Administrations;Caisse d'Allocations du Gers;0820 25 32 10;05 62 61 60 43
+474;Banques;Caisse d'Epargne;0892 68 25 85;01 41 85 88 81
+475;Banques;Caisse d'Epargne;;01 57 05 06 71
+476;Banques;Caisse d'Epargne;;04 78 38 65 10
+477;Banques;Caisse d'Epargne;;08 00 50 68 56
+478;Banques;Caisse d'Epargne;0826 27 01 86;05 63 47 60 92
+479;Banques;Caisse d'Epargne;0826 27 00 01;05 61 14 49 01
+480;Banques;Caisse d'Epargne;;01 34 22 26 26
+481;Banques;Caisse d'Epargne;;04 72 01 84 30
+482;Banques;Caisse d'Epargne;0826 27 02 05;05 63 71 31 08
+483;Banques;Caisse d'Epargne;0821 08 52 91;01 30 80 45 54
+484;Banques;Caisse d'Epargne;;02 36 16 62 00
+485;Banques;Caisse d'Epargne;0821 01 04 36;01 64 96 15 60
+486;Banques;Caisse d'Epargne;0820 00 01 69;04 76 92 18 15
+487;Banques;Caisse d'Epargne;0821 01 03 13;01 53 38 85 70
+488;Banques;Caisse d'Epargne;0821 22 74 64;02 54 52 21 21
+489;Banques;Caisse d'Epargne;0820 02 55 09;02 98 30 46 00
+490;Banques;Caisse d'Epargne;0820 88 71 23;02 33 90 78 55
+491;Banques;Caisse d'Epargne;0820 30 04 25;05 46 01 10 57
+492;Banques;Caisse d'Epargne;0820 89 27 21;05 55 33 87 00
+493;Banques;Caisse d'Epargne;0826 27 00 85;05 61 09 86 71
+494;Banques;Caisse d'Epargne;;05 63 53 73 92
+495;Banques;Caisse d'Epargne;;04 89 11 20 60
+496;Banques;Caisse d'Epargne;0820 02 51 29;04 72 74 41 95
+497;Banques;Caisse d'Epargne;0821 01 51 89;04 30 67 51 95
+498;Banques;Caisse d'Epargne;0821 01 52 51;04 30 16 32 70
+499;Banques;Caisse d'Epargne;;01 58 40 41 42
+500;Banques;Caisse d'Epargne;0826 27 28 46;05 59 71 55 15
+501;Banques;Caisse d'Epargne;0826 27 01 80;05 63 48 59 46
+502;Banques;Caisse d'Epargne;0821 01 09 10;02 47 36 50 50
+503;Banques;Caisse d'Epargne;0892 68 25 85;01 41 86 30 10
+504;Banques;Caisse d'Epargne;0826 27 00 03;05 67 06 15 84
+505;Banques;Caisse d'Epargne;;05 81 97 74 83
+506;Banques;Caisse d'Epargne;;02 32 27 31 64
+507;Banques;Caisse d'Epargne;0820 02 53 34;04 74 46 34 12
+508;Banques;Caisse d'Epargne;0820 89 01 95;03 28 50 37 00
+509;Banques;Caisse d'Epargne Auvergne Limousin;0820 89 27 43;05 55 30 55 73
+510;Banques;Caisse d'Epargne d'Auvergne et du Limousin - CEPAL;0820 89 27 21;05 55 33 87 00
+511;Banques;Caisse d'Epargne Languedoc-Roussillon;;04 34 02 10 20
+512;Banques;Caisse d'Epargne Midi-Pyrénnées;0826 27 00 84;05 81 97 77 40
+513;Banques;Caisse de crédit mutuel agricole d'Anjou;;01 41 87 26 75
+514;Administrations;Caisse Primaire d'Assurance Maladie;0000 00 36 46;01 72 59 56 01
+515;Administrations;Caisse régionale de crédit agricole mutuel de normandie;;01 31 55 60 00
+516;Administrations;Caisses Primaires d'Assurance Maladie - CPAM;0000 00 36 46;01 72 59 56 01
+517;Administrations;Caisses Primaires d'Assurance Maladie - CPAM;;03 23 65 43 33
+518;Administrations;Caisses Primaires d'Assurance Maladie - CPAM;;04 92 09 40 00
+519;Administrations;Caisses Primaires d'Assurance Maladie - CPAM;;04 92 09 73 14
+520;Administrations;Caisses Primaires d'Assurance Maladie - CPAM;;03 24 33 73 73
+521;Administrations;Caisses Primaires d'Assurance Maladie - CPAM;;05 61 65 74 00
+522;Administrations;Caisses Primaires d'Assurance Maladie - CPAM;;04 68 77 76 00
+523;Administrations;Caisses Primaires d'Assurance Maladie - CPAM;;04 91 83 70 00
+524;Administrations;Caisses Primaires d'Assurance Maladie - CPAM;;05 45 94 35 35
+525;Administrations;Caisses Primaires d'Assurance Maladie - CPAM;;02 48 55 49 00
+526;Administrations;Caisses Primaires d'Assurance Maladie - CPAM;;04 95 23 52 00
+527;Administrations;Caisses Primaires d'Assurance Maladie - CPAM;;03 80 59 37 59
+528;Administrations;Caisses Primaires d'Assurance Maladie - CPAM;;05 55 41 23 00
+529;Administrations;Caisses Primaires d'Assurance Maladie - CPAM;;03 81 47 53 00
+530;Administrations;Caisses Primaires d'Assurance Maladie - CPAM;;04 75 75 53 53
+531;Administrations;Caisses Primaires d'Assurance Maladie - CPAM;;04 66 76 62 62
+532;Administrations;Caisses Primaires d'Assurance Maladie - CPAM;;05 62 61 60 00
+533;Administrations;Caisses Primaires d'Assurance Maladie - CPAM;;04 67 49 72 72
+534;Administrations;Caisses Primaires d'Assurance Maladie - CPAM;;02 54 29 49 49
+535;Administrations;Caisses Primaires d'Assurance Maladie - CPAM;;04 76 68 50 50
+536;Administrations;Caisses Primaires d'Assurance Maladie - CPAM;;04 74 31 41 51
+537;Administrations;Caisses Primaires d'Assurance Maladie - CPAM;;05 58 06 62 00
+538;Administrations;Caisses Primaires d'Assurance Maladie - CPAM;;02 51 88 88 88
+539;Administrations;Caisses Primaires d'Assurance Maladie - CPAM;;02 38 79 47 00
+540;Administrations;Caisses Primaires d'Assurance Maladie - CPAM;;05 53 69 11 11
+541;Administrations;Caisses Primaires d'Assurance Maladie - CPAM;;02 41 81 76 76
+542;Administrations;Caisses Primaires d'Assurance Maladie - CPAM;;02 33 06 58 00
+543;Administrations;Caisses Primaires d'Assurance Maladie - CPAM;;03 25 02 85 85
+544;Administrations;Caisses Primaires d'Assurance Maladie - CPAM;;03 83 85 50 00
+545;Administrations;Caisses Primaires d'Assurance Maladie - CPAM;;02 97 01 56 56
+546;Administrations;Caisses Primaires d'Assurance Maladie - CPAM;;03 86 21 69 00
+547;Administrations;Caisses Primaires d'Assurance Maladie - CPAM;;03 27 73 59 59
+548;Administrations;Caisses Primaires d'Assurance Maladie - CPAM;;03 28 26 39 39
+549;Administrations;Caisses Primaires d'Assurance Maladie - CPAM;;03 27 69 52 52
+550;Administrations;Caisses Primaires d'Assurance Maladie - CPAM;;03 20 25 72 00
+551;Administrations;Caisses Primaires d'Assurance Maladie - CPAM;;03 27 23 95 95
+552;Administrations;Caisses Primaires d'Assurance Maladie - CPAM;;02 33 32 35 35
+553;Administrations;Caisses Primaires d'Assurance Maladie - CPAM;;03 21 87 70 00
+554;Administrations;Caisses Primaires d'Assurance Maladie - CPAM;;03 21 74 72 00
+555;Administrations;Caisses Primaires d'Assurance Maladie - CPAM;;05 59 52 73 00
+556;Administrations;Caisses Primaires d'Assurance Maladie - CPAM;;05 62 51 75 75
+557;Administrations;Caisses Primaires d'Assurance Maladie - CPAM;;03 88 63 45 00
+558;Administrations;Caisses Primaires d'Assurance Maladie - CPAM;;03 89 46 97 00
+559;Administrations;Caisses Primaires d'Assurance Maladie - CPAM;;04 74 02 26 49
+560;Administrations;Caisses Primaires d'Assurance Maladie - CPAM;;03 85 39 73 00
+561;Administrations;Caisses Primaires d'Assurance Maladie - CPAM;;04 50 88 60 60
+562;Administrations;Caisses Primaires d'Assurance Maladie - CPAM;;02 35 04 78 00
+563;Administrations;Caisses Primaires d'Assurance Maladie - CPAM;;02 32 74 80 00
+564;Administrations;Caisses Primaires d'Assurance Maladie - CPAM;;01 64 71 34 00
+565;Administrations;Caisses Primaires d'Assurance Maladie - CPAM;;05 49 77 30 00
+566;Administrations;Caisses Primaires d'Assurance Maladie - CPAM;;03 22 97 50 00
+567;Administrations;Caisses Primaires d'Assurance Maladie - CPAM;;05 63 21 38 00
+568;Administrations;Caisses Primaires d'Assurance Maladie - CPAM;;04 90 81 36 58
+569;Administrations;Caisses Primaires d'Assurance Maladie - CPAM;;05 49 44 59 97
+570;Administrations;Caisses Primaires d'Assurance Maladie - CPAM;;03 29 64 65 00
+571;Administrations;Caisses Primaires d'Assurance Maladie - CPAM;;03 84 46 53 53
+572;Administrations;Caisses Primaires d'Assurance Maladie - CPAM;;01 48 96 48 48
+573;Administrations;Caisses Primaires d'Assurance Maladie - CPAM;;01 34 22 22 22
+574;Administrations;Caisses Primaires d'Assurance Maladie - CPAM;;05 94 39 60 00
+575;Administrations;Caisses Primaires d'Assurance Maladie - CPAM;;02 62 40 33 40
+576;Administrations;Caisses Primaires d'Assurance Maladie - CPAM;;05 65 77 60 71
+577;Administrations;Caisses Primaires d'Assurance Maladie - CPAM;0000 00 36 46;05 62 51 75 13
+578;;Caldeo;0008 10 81 00;01 60 14 00 93
+579;Commerces;CAMIF;0008 92 69 69;05 49 34 66 44
+580;Commerces;Camif;;05 49 34 60 55
+581;Commerces;Camif;;05 49 34 59 69
+582;Commerces;CAMIF;;05 49 34 59 69
+583;Commerces;Camif;;05 49 34 66 44
+584;;Campeole;0826 30 02 12;01 44 68 17 40
+585;Voyages;Camping Campeole;0826 30 02 12;05 61 69 05 00
+586;Telecoms;Canal CE;0825 88 50 03;01 41 31 63 00
+587;Telecoms;Canal Plus - Canal+;;09 70 80 90 30
+588;Telecoms;Canal Plus - Canal+;;01 72 29 70 73
+589;Telecoms;Canal Plus - Canal+;;08 05 80 64 00
+590;Telecoms;Canal Plus - Canal+;0891 36 08 14;09 70 80 90 30
+591;Telecoms;Canal Sat;;01 71 35 35 35
+592;Telecoms;CanalSat et Canal+;0008 92 39 39;01 71 35 35 35
+593;Telecoms;CanalSat et Canal+;;03 75 14 03 60
+594;;Candy Electroménager;;02 48 55 80 81
+595;;Canyon;0890 71 01 32;03 89 49 57 24
+596;;Canyon France;0008 90 71 01;03 89 49 57 24
+597;;CAP Junior;0892 05 80 00;04 78 79 64 04
+598;;Cap Santé;0008 20 16 26;04 78 24 00 35
+599;;Capcom;;01 75 00 19 53
+600;;Caprofem;0008 21 01 06;01 48 10 78 78
+601;;Caprofem;0008 21 01 06;01 48 10 78 99
+602;Assurances;Cardif Assurance;;01 41 42 67 93
+603;Assurances;Cardif Assurance;;01 41 42 61 48
+604;Commerces;Cardy;0825 10 08 25;03 22 44 00 20
+605;Commerces;Cardy;;01 40 38 66 98
+606;Commerces;Cardy;;04 91 42 90 90
+607;Commerces;Cardy;0825 10 08 25;04 73 28 40 80
+608;Commerces;Cardy;;02 98 41 00 99
+609;Commerces;Cardy;0825 10 08 25;04 78 50 27 88
+610;Commerces;Cardy;;04 78 66 88 04
+611;;Care Fitness;0820 82 11 67;01 48 43 04 44
+612;;Carfuel;0826 82 68 27;01 60 87 09 52
+613;Voyages;Carlson Wagonlit;0826 82 48 26;01 41 86 24 09
+614;;Carma Assurance;0826 82 68 15;01 56 29 87 57
+615;;Carnet d'Evasion;0892 70 09 92;03 88 15 03 00
+616;;Carpe Diem;;01 75 00 33 76
+617;Commerces;Carrefour;;01 41 86 42 40
+618;Commerces;Carrefour;;01 41 86 24 47
+619;Commerces;Carrefour;;01 57 05 04 11
+620;Commerces;Carrefour;;03 60 04 00 14
+621;Commerces;Carrefour;0008 25 34 20;01 69 64 68 74
+622;Commerces;Carrefour;;04 91 10 25 79
+623;Commerces;Carrefour;;09 78 97 01 00
+624;Commerces;Carrefour;0825 34 20 11;01 69 46 77 77
+625;Commerces;Carrefour;;01 41 86 42 44
+626;Commerces;Carrefour;;01 41 86 21 44
+627;Commerces;Carrefour;0826 82 68 15;01 69 87 43 71
+628;Commerces;Carrefour;;08 05 41 41 41
+629;Assurances;Carrefour Assurance;0826 82 68 15;01 69 87 43 71
+630;Assurances;Carrefour Assurance;0826 82 68 15;09 74 75 74 74
+631;Assurances;Carrefour Assurance Scolaire;0826 82 68 15;04 26 10 96 06
+632;Banques;Carrefour Banque;0826 82 78 27;01 60 76 48 48
+633;Banques;Carrefour Banque;;03 60 04 00 17
+634;Banques;Carrefour Banque;0826 82 78 24;03 22 20 36 14
+635;Banques;Carrefour Banque S2P;;01 69 87 43 96
+636;Commerces;Carrefour en ligne;0892 68 50 20;09 69 39 75 35
+637;commerces;Carrefour Online;;09 80 98 09 82
+638;Voyages;Carrefour Voyages;0892 01 50 15;03 89 63 38 07
+639;Voyages;Carrefour Voyages;0892 01 50 15;04 72 20 96 07
+640;commerces;Carrefour.com;;01 76 60 26 00
+641;;Carsat Aquitaine;0821 10 33 33;05 56 39 55 93
+642;;Carte Business Green et Gold;;01 47 77 79 90
+643;;Carte Green American Express;;01 47 77 70 00
+644;;cartegrise.com;0892 88 23 00;04 98 12 23 14
+645;;cartegriseminute.fr;0008 99 37 00;01 41 31 20 81
+646;;Cartridge World France;0008 11 20 20;01 58 46 12 31
+647;;CARVEST : Crédit Agricole Régions Investissement;;04 37 49 76 50
+648;;Casamundo;0800 74 69 81;01 77 58 37 47
+649;Banques;Casden;0826 82 44 00;01 64 80 32 99
+650;Banques;Casden;;04 68 47 96 90
+651;Banques;Casden Banque Populaire;0820 21 55 66;04 68 50 36 50
+652;;Cash Systemes Industrie - CSI;0825 56 06 15;04 98 11 45 71
+653;;Casino Caféteria;0008 20 21 20;04 77 45 49 62
+654;commerces;Castorama;0008 99 23 16;05 59 57 21 21
+655;Santé;Castorama;0810 10 41 04;01 71 08 75 62
+656;commerces;Cathay Pacific;;01 79 63 61 07
+657;Voyages;Cathay Pacific;0008 11 70 60;01 41 43 75 75
+658;;CCB;;01 49 21 44 00
+659;Administrations;CCI Aube;0820 39 56 80;03 21 60 17 00
+660;Administrations;CCM Flers;0008 20 35 22;03 20 61 37 08
+661;;CCMX;0826 82 60 07;01 41 86 24 17
+662;commerces;CDiscount;;01 57 05 00 74
+663;commerces;CDiscount;;09 69 39 03 09
+664;commerces;CDiscount;;01 49 44 52 02
+665;commerces;CDiscount;;01 57 05 06 79
+666;commerces;CDiscount;;01 57 05 06 81
+667;commerces;CDiscount;0899 70 04 80;01 57 05 00 74
+668;commerces;CDiscount;0008 91 78 00;05 56 17 42 33
+669;commerces;CDiscount;;03 60 01 01 06
+670;commerces;CDiscount;;09 70 80 92 59
+671;commerces;CDiscount;;01 78 91 82 56
+672;commerces;CDiscount;;03 58 19 59 35
+673;commerces;CDiscount;;01 71 25 06 45
+674;;CDsud;0892 70 14 90;04 91 09 47 82
+675;Telecoms;Cegetel;;01 41 86 26 13
+676;;Celaia.fr;0008 92 35 00;03 20 01 20 01
+677;Voyages;Center Parcs;;01 58 21 58 21
+678;Voyages;Center Parcs;;09 69 32 84 84
+679;Voyages;Center Parcs Les Bois Francs;;02 32 60 50 00
+680;Voyages;Center Parcs Sologne;0891 70 00 41;02 54 95 10 00
+681;;Centrale Nucléaire Coutras;;05 56 41 80 40
+682;;Centre de santé René Laborie;0008 20 21 33;01 40 28 33 17
+683;;Centre de soin Les Lauriers;0826 00 28 37;05 56 77 37 37
+684;Administrations;Centre des Finances Publiques;;04 66 27 92 10
+685;Administrations;Centre des Finances Publiques;;04 66 27 92 04
+686;Administrations;Centre des Impôts;0008 10 01 20;04 67 15 75 15
+687;Santé;Centre Hospitalier de Grasse;;04 93 09 55 55
+688;Santé;Centre Hospitalier de Narbonne;;04 68 42 60 11
+689;Santé;Centre Hospitalier du Pays D'Apt;0008 26 02 00;04 90 04 33 00
+690;;Centre Informatique;0008 90 71 27;05 56 75 07 12
+691;Santé;Centre Médical et Dentaire Jack Senet;;01 42 79 79 31
+692;Santé;Centre Médical Rhône Azur;0008 26 46 46;04 92 25 40 40
+693;;Centre Régional de la Consomation;0008 20 05 90;03 28 21 83 70
+694;;cesaro.fr;0892 43 10 92;09 75 82 29 97
+695;Administrations;CESU - Chèque Emploi Service;0820 86 85 84;04 77 43 23 00
+696;Banques;Cetelem;0008 20 20 70;02 51 86 67 99
+697;Banques;Cetelem;0820 20 50 22;01 61 36 04 62
+698;Banques;Cetelem;;01 57 05 03 78
+699;;CFI Extel;0892 35 00 69;04 74 08 96 10
+700;;CGOS - Comité de Gestion des Oeuvres Sociales;0820 20 52 04;01 44 23 13 00
+701;;CGOS - Comité de Gestion des Oeuvres Sociales;0825 04 60 46;01 44 23 27 00
+702;;CGOS - Comité de Gestion des Oeuvres Sociales;;01 45 70 82 20
+703;;CGV SAS - cgv.fr;0008 92 02 00;03 88 56 53 00
+704;;Chaîne Météo;0000 00 32 01;01 41 86 26 23
+705;;Chalair Aviation;0892 70 04 99;02 31 71 26 20
+706;;Chappée;0892 10 80 04;01 45 91 56 00
+707;;Chaussat Electronique;;02 31 84 61 88
+708;;Chaussures desmazières;;03 20 87 70 05
+709;;Cheminée Renée Brisach;0008 20 00 60;04 94 56 67 00
+710;;Cherry Claviers;;01 43 77 29 51
+711;;Chiens-Online.com;0892 23 71 37;01 49 37 54 00
+712;;Chorum Mutuelle;0825 08 03 49;01 44 09 62 53
+713;Transporteurs;Chronopost;;04 95 30 14 40
+714;Transporteurs;Chronopost;;01 41 60 26 60
+715;Transporteurs;Chronopost;;05 57 92 13 70
+716;Transporteurs;Chronopost;;02 98 72 76 47
+717;Transporteurs;Chronopost;;02 31 06 18 00
+718;Transporteurs;Chronopost;;01 34 02 49 00
+719;Transporteurs;Chronopost;;01 60 95 07 20
+720;Transporteurs;Chronopost;;01 46 48 13 13
+721;Transporteurs;Chronopost;0825 80 18 01;04 72 28 56 56
+722;Transporteurs;Chronopost;;05 55 48 06 06
+723;Transporteurs;Chronopost;;04 42 14 37 37
+724;Transporteurs;Chronopost;;01 40 38 83 01
+725;Transporteurs;Chronopost;;01 46 48 10 00
+726;Transporteurs;Chronopost;;05 56 43 85 30
+727;Transporteurs;Chronopost;;05 61 71 05 10
+728;Transporteurs;Chronopost;;05 61 71 95 57
+729;Transporteurs;Chronopost;;02 23 42 85 00
+730;Transporteurs;Chronopost;;02 23 43 00 00
+731;Transporteurs;Chronopost;;02 38 52 34 34
+732;Transporteurs;Chronopost;;04 67 99 11 00
+733;Transporteurs;Chronopost;;04 67 99 00 00
+734;Transporteurs;Chronopost;;04 42 14 00 00
+735;Transporteurs;Chronopost;;05 55 49 00 00
+736;Transporteurs;Chronopost;;01 46 48 00 00
+737;Transporteurs;Chronopost;;01 60 95 00 00
+738;Transporteurs;Chronopost;;01 34 02 00 00
+739;Transporteurs;Chronopost;;02 31 06 00 00
+740;Transporteurs;Chronopost;;02 98 42 00 00
+741;Transporteurs;Chronopost;;05 56 48 00 00
+742;Transporteurs;Chronopost;;01 41 60 00 00
+743;Transporteurs;Chronopost;;04 95 30 00 00
+744;Transporteurs;Chronopost;;02 47 40 00 00
+745;Transporteurs;Chronopost;;02 47 40 22 21
+746;Transporteurs;Chronopost;;01 41 21 21 30
+747;Transporteurs;Chronopost;0825 80 18 01;09 69 39 13 91
+748;Transporteurs;Chronopost;;04 42 14 37 45
+749;Transporteurs;Chronopost;;02 43 51 30 00
+750;Transporteurs;Chronopost;;04 76 50 77 40
+751;Transporteurs;Chronopost;;04 76 50 77 46
+752;Transporteurs;Chronopost;;04 95 30 14 40
+753;Transporteurs;Chronopost;;04 68 10 53 00
+754;Transporteurs;Chronopost;;01 47 92 44 10
+755;Transporteurs;Chronopost International;;01 75 64 60 00
+756;;Chronoservices;0008 21 20 72;03 27 93 70 70
+757;;cibtvisas.fr;0825 08 10 20;01 44 10 72 72
+758;Banques;CIC;0820 89 01 60;04 67 14 80 00
+759;Banques;CIC;0820 30 05 81;04 74 81 90 69
+760;Banques;CIC;;02 31 71 56 10
+761;Banques;CIC;0008 20 09 20;02 51 34 41 00
+762;Banques;CIC Banque;0008 25 00 04;01 34 41 11 28
+763;Banques;CIC Est;0820 08 90 33;03 87 60 84 15
+764;Banques;CIC Lyonnaise de Banque;0008 20 01 01;03 84 33 44 22
+765;Banques;CIC Société Bordelaise;;04 67 99 40 70
+766;;CICAS - Centre d'Information, Conseil et Accueil d...;0820 20 01 89;01 53 17 15 80
+767;;CICAS - Centre d'Information, Conseil et Accueil des Salariés;0820 20 01 89;02 51 37 17 44
+768;;CICAS - Centre d'Information, Conseil et Accueil des Salariés;0820 20 01 89;04 68 25 53 48
+769;;CICAS - Centre d'Information, Conseil et Accueil des Salariés;0820 20 01 89;04 91 54 11 54
+770;;Cij77;;01 64 39 39 78
+771;Loisirs;Cinefil;;01 57 05 04 93
+772;Loisirs;Cinefil;;01 57 05 05 78
+773;Loisirs;Cinefil;0008 92 68 01;01 57 05 03 28
+774;Loisirs;Cinefil;;01 57 05 04 93
+775;Loisirs;Cinefil;;01 57 05 05 80
+776;Loisirs;Cinefil;;01 57 05 05 83
+777;Loisirs;Cinéma Gaumont Pathé;;04 42 02 01 00
+778;Loisirs;Cinéma Gaumont Pathé;;04 72 77 88 88
+779;Loisirs;Cinéma Gaumont Pathé;0008 92 69 66;03 90 29 13 16
+780;Loisirs;Cinéma Gaumont Pathé;;03 21 14 22 85
+781;Loisirs;Cinéma Mégarama;;01 47 99 45 30
+782;Loisirs;Circuit Chambley;0008 20 69 69;03 82 33 71 83
+783;Administrations;Cité Administrative;0811 02 03 31;05 56 24 80 80
+784;;Citefibre;;01 70 08 90 90
+785;;Cklic;0008 25 00 48;05 34 61 46 14
+786;;cleor.com;0008 92 39 00;02 32 31 30 60
+787;Santé;Clinique ADASSA;0826 20 01 01;03 88 15 10 10
+788;Santé;Clinique Aguiléra;0008 25 13 50;05 59 22 45 90
+789;Santé;Clinique Aguiléra;0008 25 13 50;05 59 22 46 21
+790;Santé;Clinique Belle Rive;0008 26 30 27;04 32 70 16 41
+791;Santé;Clinique Bonnefon;0008 26 20 73;04 66 56 34 00
+792;Santé;Clinique Bouchard;0826 39 99 02;04 91 15 90 22
+793;Santé;Clinique Chirurgicale Bel-Air;0826 30 06 06;05 57 81 06 06
+794;Santé;Clinique Chirurgicale de Martigues;0008 26 00 10;04 42 35 42 35
+795;Santé;Clinique Conti;0826 96 89 68;01 34 08 15 15
+796;Santé;Clinique d'Aulnay - Hôpital de l'Est Parisien;0825 74 35 35;01 48 19 33 33
+797;Santé;Clinique d'Orgemont - Clinéa;0008 26 96 02;01 39 96 31 00
+798;Santé;Clinique de Chartreuse;0008 26 30 67;04 76 67 04 94
+799;Santé;Clinique de l'Essonne;0008 26 30 86;01 60 87 86 81
+800;Santé;Clinique de l'Orangerie;;03 88 56 74 00
+801;Santé;Clinique de la Sauvegarde - Capio;0008 26 10 69;04 72 17 26 26
+802;Santé;Clinique de Quissac;0008 25 77 71;04 66 80 80 80
+803;Santé;Clinique des Cèdres;0008 25 56 56;04 56 59 10 00
+804;Santé;Clinique des cèdres - CAPIO;0826 96 31 31;05 62 13 30 30
+805;Santé;Clinique des Emailleurs;0825 00 08 70;05 55 43 39 16
+806;Santé;Clinique des Martinets;0008 25 74 34;01 47 14 64 46
+807;Santé;Clinique des Monts du Forez;0008 20 15 15;04 77 72 11 40
+808;Santé;Clinique des Sources;0826 10 95 00;01 30 10 14 96
+809;Santé;Clinique des Trois Frontières;0008 26 30 37;03 89 70 37 37
+810;Santé;Clinique du Cambrésis;0826 20 59 33;03 27 73 91 21
+811;Santé;Clinique du Colombier;0008 25 74 75;05 55 12 56 00
+812;Santé;Clinique du Docteur Guillard;0008 26 20 72;02 33 47 43 00
+813;Santé;Clinique du Millénaire;0826 88 88 83;04 99 53 63 73
+814;Santé;Clinique du Millenaire;0826 88 88 83;04 99 53 60 60
+815;Santé;Clinique du Mont Valérien;0826 96 86 86;01 45 06 17 23
+816;Santé;Clinique du Parc;0008 26 30 13;04 67 33 13 31
+817;Santé;Clinique du Renaison;0826 46 45 00;04 77 44 39 99
+818;Santé;Clinique du Souffle la Solane;0008 20 20 33;04 68 30 74 74
+819;Santé;Clinique François Chénieux;0825 56 45 00;05 55 45 44 60
+820;Santé;Clinique Générale D'Annecy;;04 50 33 03 28
+821;Santé;Clinique Hliades;0008 26 10 84;04 94 51 84 00
+822;Santé;Clinique Jouvenet;0825 74 34 74;01 42 15 41 10
+823;Santé;Clinique L'Ermitage - Orpea - Clinea;0008 26 96 14;01 41 90 14 30
+824;Santé;Clinique la Bastide;;04 68 72 43 54
+825;Santé;Clinique la Francilienne;0008 26 30 43;01 64 43 43 00
+826;Santé;Clinique la Pergola;0826 39 99 11;04 70 30 30 40
+827;Santé;Clinique la Provençale;0826 00 94 56;04 91 87 86 85
+828;Santé;Clinique Lafourcade;0008 26 96 64;05 59 63 46 10
+829;Santé;Clinique Lambert;0008 20 16 20;01 46 49 71 78
+830;Santé;Clinique Le Moulin - Clinea;0008 26 10 23;01 69 54 56 56
+831;Santé;Clinique les Franciscaines;0826 30 50 00;04 66 76 60 36
+832;Santé;Clinique les Genêts;;04 68 32 82 35
+833;Santé;Clinique les Glénans;0008 26 10 59;02 29 40 20 29
+834;Santé;Clinique Les Sorbiers;0008 26 28 28;04 73 55 59 59
+835;Santé;Clinique Les Tournelles - Orpea;0008 26 96 90;01 41 24 38 00
+836;Santé;Clinique Lille - Sud - HPM;0008 26 20 95;03 20 95 75 98
+837;Santé;Clinique Mutualisée de Pessac;;05 56 46 56 76
+838;Santé;Clinique Mutualiste Arnaud Duben;0008 26 30 56;05 56 46 56 47
+839;Santé;Clinique Mutualiste de la Porte de L'Orient;0826 39 90 40;02 97 64 80 00
+840;Santé;Clinique Mutualiste Trarieux - Eugene André;0826 96 00 00;04 72 68 40 50
+841;Santé;Clinique Pasteur;0008 26 30 57;05 53 61 56 10
+842;Santé;Clinique Pasteur;0826 30 07 26;04 75 75 24 24
+843;Santé;Clinique psychiatrique du Val de Loire;0826 20 72 04;02 47 29 74 00
+844;Santé;Clinique Saint Jean Languedoc;0008 26 96 91;05 61 54 99 00
+845;Santé;Clinique Saint Jean Languedoc;0008 26 96 91;05 61 54 96 04
+846;Santé;Clinique Saint Roch;0008 26 20 68;03 20 69 58 58
+847;Santé;Clinique Saint-André - Vitalia;0826 39 99 28;03 83 59 45 45
+848;Santé;Clinique Saint-Jean;0826 00 44 83;04 94 16 30 00
+849;Santé;Clinique Saint-Jean;0820 16 07 77;01 64 14 30 03
+850;Santé;Clinique Saint-Jean;0008 26 00 44;04 94 16 30 08
+851;Santé;Clinique Saint-Jean;0008 26 30 18;04 98 00 18 01
+852;Santé;Clinique Sainte Marguerite;0008 26 00 90;04 94 12 55 55
+853;Santé;Clinique Sainte Marie;0826 20 59 33;01 34 20 96 96
+854;Santé;Clinique st Faron;0826 20 77 57;01 60 23 39 00
+855;Santé;Clinique St-Jean l'Hermitage;0008 20 16 16;01 64 87 26 01
+856;Santé;Clinique St-Jean l'Hermitage;0008 20 16 16;01 64 39 44 66
+857;Santé;Clinique St-Jean l'Hermitage;0008 20 16 07;01 64 14 30 04
+858;Santé;Clinique St-Jean l'Hermitage;0008 20 16 07;01 64 14 32 78
+859;Santé;Clinique St-Jean l'Hermitage;0008 20 16 07;01 64 14 30 05
+860;Santé;Clinique St-Jean l'Hermitage;0008 20 16 07;01 64 14 30 02
+861;Santé;Clinique Toulouse Lautrec;0008 26 39 99;05 63 48 47 50
+862;Santé;Clinique vétérinaire Saint-Antoine;;04 91 96 25 96
+863;;Club Aventure;0826 88 20 80;04 96 15 10 20
+864;;Club Des Créateurs de Beauté Agnès B;0892 70 17 10;01 41 05 68 00
+865;;Club des Créateurs de Beauté Agnès B;;09 72 72 00 44
+866;;Club français de la monnaie;0008 92 35 05;02 32 22 22 22
+867;;Club Français du Vin - cfv.fr;0891 70 01 21;03 44 06 41 65
+868;Telecoms;Club Internet;;08 05 50 01 23
+869;Telecoms;Club Internet;0008 92 01 10;01 55 45 72 12
+870;Voyages;Club Med;0810 81 08 10;01 53 35 40 37
+871;Voyages;Club Med;0810 81 08 10;01 56 56 56 80
+872;Banques;CMCIC;0820 82 17 35;03 88 39 85 39
+873;Assurances;CNAV;0821 10 75 00;01 40 82 20 20
+874;Assurances;CNAV (Caisse Nationale d'Assurance Vieillesse);0008 21 10 75;01 55 45 50 00
+875;Assurances;CNAV - Assurance Retraite;0000 00 39 60;09 71 10 39 60
+876;Assurances;CNRACL - Caisse Nationale de Retraite des Agents des Collectivités Locale;0820 06 49 54;05 57 57 91 99
+877;;CNT;0008 11 65 65;01 44 61 84 85
+878;;Cobrason.com;0008 25 30 10;01 49 29 10 80
+879;;Cobrason.com;0008 25 30 10;01 49 29 76 18
+880;;Coca-Cola France;;09 69 39 29 00
+881;;Cochonland Vacheland;;01 73 02 35 53
+882;Banques;Cofidis;;08 00 31 73 17
+883;Banques;Cofidis;;03 28 09 24 50
+884;Banques;Cofidis;;03 28 09 28 09
+885;;Cofiroute;;09 69 39 26 34
+886;Transporteurs;Coliposte;0008 25 87 88;03 29 42 16 01
+887;Transporteurs;Coliposte;;09 72 72 12 13
+888;Transporteurs;Coliposte;;01 30 23 41 20
+889;Transporteurs;Coliposte Colissimo;;00 00 00 36 31
+890;Transporteurs;colisprive.com - Colis Privé;0008 26 82 83;02 49 79 01 03
+891;Transporteurs;Colissimo Pro;;09 72 72 12 13
+892;;Comboutique;;09 70 46 57 00
+893;;Cometik TV;0826 46 09 01;03 20 00 83 31
+894;;Compagnie des Eaux;0810 46 39 72;02 23 48 00 00
+895;;Compagnie Générale Des Eaux;;04 68 48 45 13
+896;;ComparaTEL;0008 26 02 28;01 44 29 48 00
+897;;Compass24;0008 11 03 02;01 49 65 32 15
+898;;Comptage et Services;0008 10 72 42;01 41 49 52 00
+899;;Compte personnel d'activité - CPA;;02 41 19 22 22
+900;;Conciergerie Grasse Clinique du Palais;0008 25 10 10;04 93 40 44 59
+901;;Confo Dépôt;;04 72 48 37 57
+902;;ConfoGaz;0820 01 23 33;04 78 80 03 04
+903;Commerces;Conforama;;03 20 62 63 62
+904;Commerces;Conforama;0890 71 05 15;05 63 91 63 00
+905;Commerces;Conforama;0008 26 08 10;02 96 52 54 20
+906;Commerces;Conforama;0008 26 08 10;05 45 94 58 73
+907;Commerces;Conforama;;04 68 71 38 50
+908;Commerces;Conforama;0008 26 08 10;05 55 38 53 53
+909;Commerces;Conforama;0008 92 01 08;09 69 36 29 52
+910;Commerces;Conforama;0008 26 08 10;05 34 30 23 20
+911;Commerces;Conforama;0008 26 08 10;09 72 72 10 12
+912;Commerces;Conforama;;09 78 97 81 09
+913;Commerces;Conforama France;;04 68 41 01 37
+914;;confortetvie.fr;0892 46 04 40;09 51 78 32 77
+915;;Connaître Son Numéro;;01 72 36 51 07
+916;Commerces;Conrad;0008 92 89 74;01 41 86 92 81
+917;Commerces;Conrad;;03 20 61 76 39
+918;Commerces;Conrad;0892 89 74 77;01 41 86 92 82
+919;Commerces;Conrad;0008 92 89 55;03 59 75 00 91
+920;Commerces;Conrad;0892 89 50 03;03 20 78 29 70
+921;Commerces;Conrad;;03 20 12 88 75
+922;Commerces;Conrad;0892 89 55 55;03 20 61 76 39
+923;;Constatel;0008 10 16 00;03 88 14 00 22
+924;;Consuel Paris;0008 21 20 32;01 41 47 10 60
+925;;Contact FM;0820 06 20 00;03 20 26 35 15
+926;;Contactel;0820 82 04 71;05 34 45 12 87
+927;;Coopérative Agricole Audoise de Distillation;;04 68 27 00 09
+928;;Copy Sud;0825 30 14 01;05 61 17 23 23
+929;;Cordon Electronics;0008 92 69 27;02 23 35 53 10
+930;;Corpedia Financial;0899 23 37 89;09 77 40 05 40
+931;Voyages;Corsair - ex-CorsairFly;0820 04 20 42;01 49 79 49 10
+932;Voyages;Corsair - ex-CorsairFly;;01 70 39 22 10
+933;Banques;Cortal Banque;;01 41 86 26 84
+934;;Cortel Consors;;01 41 86 26 38
+935;Voyages;Costa Croisières;;08 00 73 04 47
+936;;Courrier International;;01 53 24 42 30
+937;;Coursengo.com;0811 65 46 54;01 42 23 99 61
+938;;Coyote;0892 68 89 10;01 45 05 37 42
+939;;CPMS;0826 62 66 20;01 44 18 08 95
+940;Administrations;CRAM;0008 21 10 69;04 75 88 77 81
+941;Administrations;CRAM;0821 10 13 33;04 91 85 85 36
+942;Administrations;CRAM;;02 43 14 17 19
+943;Administrations;CRAM;;04 68 47 24 20
+944;Administrations;CRAM;0820 90 41 24;04 50 88 60 60
+945;;CRC;0820 22 02 02;01 44 64 39 00
+946;Banques;Crédit Agricole;;01 46 84 10 16
+947;Banques;Crédit Agricole;;01 41 86 42 01
+948;Banques;Crédit Agricole;;01 41 86 30 05
+949;Banques;Crédit Agricole;0008 92 89 22;01 41 86 42 67
+950;Banques;Crédit Agricole;0008 10 76 22;02 96 76 22 22
+951;Banques;Crédit Agricole;;01 41 86 25 93
+952;Banques;Crédit Agricole;0008 26 27 75;01 41 86 42 65
+953;Banques;Crédit Agricole;0008 10 40 10;04 78 38 44 03
+954;Banques;Crédit Agricole;0810 00 05 76;03 20 20 75 24
+955;Banques;Crédit Agricole;0826 08 45 80;04 93 19 11 18
+956;Banques;Crédit Agricole;0810 63 52 09;04 74 26 45 00
+957;Banques;Crédit Agricole;;03 86 84 13 00
+958;Banques;Crédit Agricole;0892 89 20 00;04 68 10 74 31
+959;Banques;Crédit Agricole;;04 27 84 84 84
+960;Banques;Crédit agricole;0892 89 20 00;04 68 11 07 17
+961;Banques;Crédit Agricole;;09 69 32 22 49
+962;Banques;Crédit Agricole;;05 62 71 65 90
+963;Banques;Crédit Agricole;;03 84 65 74 65
+964;Banques;Crédit Agricole;;02 33 72 73 08
+965;Banques;Crédit Agricole;0008 92 89 22;01 41 86 25 99
+966;Banques;Crédit Agricole;0892 89 20 00;04 68 11 34 01
+967;Banques;Crédit Agricole Asset Management;;01 42 95 90 27
+968;Banques;Crédit Agricole Capital Investissement;;01 43 23 20 11
+969;Banques;Crédit Agricole Cheuvreux;;01 41 89 70 00
+970;Banques;Credit Agricole du Languedoc;0892 89 20 00;04 67 29 01 15
+971;Banques;Crédit Agricole du Languedoc;;04 67 17 56 01
+972;Banques;Crédit Agricole du Midi;;04 68 43 81 86
+973;Banques;Crédit Agricole du Midi;;04 68 11 89 72
+974;Banques;Crédit Agricole Ile de France;;01 43 08 40 17
+975;Banques;Crédit Agricole Immobilier;0811 65 44 44;05 34 41 04 10
+976;Banques;Crédit Agricole Investor Service Bank;;01 43 23 20 20
+977;Banques;Crédit Agricole Leasing;;01 43 23 87 67
+978;Banques;Crédit Agricole SA;;01 43 23 52 02
+979;Banques;Crédit agricole Sud Rhône-Alpes;0810 00 21 04;04 76 86 70 70
+980;Banques;Crédit Cooperatif;;01 41 86 26 16
+981;Banques;Crédit Coopératif;;09 80 98 00 00
+982;Banques;Crédit du Nord;;01 40 22 20 32
+983;Banques;Crédit Foncier de France;0825 30 30 31;01 57 44 80 00
+984;Banques;Crédit Immobilier de France;;04 68 47 06 40
+985;Banques;Crédit Municipal de Paris;;01 57 05 04 25
+986;Banques;Crédit Mutuel;;01 41 86 21 69
+987;Banques;Crédit Mutuel;;01 41 86 21 68
+988;Banques;Crédit Mutuel;;01 41 86 21 55
+989;Banques;Crédit Mutuel;;01 41 86 21 57
+990;Banques;Crédit Mutuel;;02 31 23 22 35
+991;Banques;Crédit Mutuel;;04 92 00 33 30
+992;Banques;Crédit Mutuel;0008 20 35 31;04 74 02 61 41
+993;Banques;Crédit Mutuel;0820 89 26 05;03 88 55 36 20
+994;Banques;Crédit Mutuel;0820 82 06 36;03 88 04 83 00
+995;Banques;Crédit Mutuel;0820 82 55 19;04 50 64 51 29
+996;Banques;Crédit Mutuel;0825 00 41 45;03 88 14 70 70
+997;Banques;Crédit Mutuel;0008 20 09 75;02 43 48 52 71
+998;Banques;Crédit Mutuel;0820 89 08 90;01 44 01 10 10
+999;Banques;Crédit Mutuel;0820 09 99 04;01 55 31 70 70
+1000;Banques;Crédit Mutuel;0820 32 08 74;03 82 59 52 52
+1001;Banques;Crédit Mutuel;0008 20 30 54;03 89 39 55 65
+1002;Banques;Crédit Mutuel;0820 89 21 37;03 89 70 25 86
+1003;Banques;Crédit Mutuel;0820 82 14 71;04 75 75 50 50
+1004;Banques;Crédit Mutuel;;01 41 86 21 57
+1005;Banques;Crédit Mutuel;0820 82 14 69;04 75 52 03 56
+1006;Banques;Crédit Mutuel;;01 55 31 70 70
+1007;Banques;Crédit Mutuel Santé;;03 80 14 90 90
+1008;;Creelia;0008 92 10 00;04 37 47 01 37
+1009;;CRIS;0820 22 02 02;01 44 64 39 00
+1010;;Crosscall;0892 70 47 40;04 42 60 75 70
+1011;Administrations;CROUS;0810 06 40 69;04 76 57 44 00
+1012;Commerces;Cultura;0826 46 84 69;05 57 29 07 07
+1013;;Custom Promo;0008 92 68 90;09 70 80 51 00
+1014;;Custom Promo;0008 92 68 90;04 86 91 40 30
+1015;;Cyberplus Paiement;0811 36 33 64;05 67 22 33 22
+1016;;Cybertek;;05 56 69 73 74
+1017;;Cyo;0811 90 04 02;01 30 17 03 22
+1018;;D Link;0008 20 08 03;01 76 54 84 17
+1019;;Daikin;0820 82 01 21;04 37 72 22 04
+1020;;Daldos;0008 25 08 16;02 41 43 62 63
+1021;;Dalloz;0820 80 00 17;01 56 54 56 90
+1022;;Damart;0008 92 70 50;09 69 32 50 13
+1023;;Damart;;09 69 32 50 13
+1024;;Damart;;03 20 83 61 99
+1025;;Daniel Jouvance;0892 02 81 82;08 00 04 24 22
+1026;Commerces;Darty;;09 78 97 09 70
+1027;Commerces;Darty;;03 20 08 56 56
+1028;Commerces;Darty;0821 08 20 82;02 31 48 45 45
+1029;Commerces;Darty;0821 08 20 82;03 22 44 66 66
+1030;Commerces;Darty;0821 08 20 82;01 41 22 01 00
+1031;Commerces;Darty;;04 72 17 21 21
+1032;Commerces;Darty;0008 21 08 20;02 40 16 24 36
+1033;Commerces;Darty;;01 34 57 22 90
+1034;Commerces;Darty;0008 21 08 20;05 24 56 01 73
+1035;Commerces;Darty;0008 21 08 20;01 43 78 68 38
+1036;Commerces;Darty;;04 91 18 25 18
+1037;Commerces;Darty;0008 21 08 20;02 31 35 40 00
+1038;Commerces;Darty;;05 62 30 34 99
+1039;Commerces;Darty;;04 68 90 32 80
+1040;Commerces;Darty;0821 08 20 82;01 39 33 39 33
+1041;Commerces;Darty;0821 08 20 82;01 41 22 01 10
+1042;Commerces;Darty;;09 78 97 09 70
+1043;Commerces;Darty;;05 58 55 79 10
+1044;Commerces;Darty;;02 97 63 73 80
+1045;Commerces;Darty;;05 61 12 59 00
+1046;Telecoms;Darty Box;;09 80 98 32 34
+1047;Telecoms;Darty Telecom;;09 80 98 32 34
+1048;Commerces;Daxon;0008 92 35 00;09 69 36 29 82
+1049;Commerces;Daxon - Celaia;0892 35 03 60;03 20 01 20 01
+1050;;DE Dietrich;;03 88 80 27 00
+1051;Telecoms;Debitel;0008 26 82 78;01 41 86 26 14
+1052;Telecoms;Debitel;0008 26 82 78;01 41 86 26 54
+1053;Telecoms;Debitel;0008 26 82 78;01 41 86 30 14
+1054;Commerces;Decathlon;;09 69 32 33 22
+1055;;Declikdeco.com;0825 62 51 05;01 39 68 17 86
+1056;;decoclico.fr;0811 85 07 14;01 79 97 54 55
+1057;;Degriff.com;0899 65 06 49;04 42 02 18 16
+1058;;Dekras Automobile;;01 57 05 04 59
+1059;Commerces;Delamaison.fr;0811 09 76 55;08 92 23 01 20
+1060;Commerces;Delamaison.fr;;09 72 36 87 91
+1061;Commerces;Delamaison.fr;;08 01 23 00 00
+1062;;Deliveroo;;09 77 55 03 30
+1063;;Dell;;01 55 94 71 00
+1064;;Dell;;09 69 39 00 30
+1065;;Dell;;04 99 75 40 50
+1066;;Dell;0825 38 71 33;04 99 75 64 20
+1067;;Dell.fr;;04 99 75 40 08
+1068;;DeLonghi;0820 04 30 43;01 41 32 30 32
+1069;;Delstyl Sofacolors;0892 46 35 00;04 75 49 03 18
+1070;;Delta Multimédia;0811 56 61 66;01 53 14 74 25
+1071;;Delta Sécurité;0008 25 04 75;04 72 52 75 75
+1072;;Demeures Cote Argent;0008 10 66 06;05 56 32 83 07
+1073;Commerces;Desigual - INTS France;0008 21 23 15;09 75 96 60 55
+1074;Commerces;Desigual - INTS France;0008 21 23 15;09 75 96 61 17
+1075;;Desorme-Bellanca;0008 10 25 43;04 71 00 03 17
+1076;;Dexxon Services;0826 46 04 50;01 41 32 21 21
+1077;Transporteurs;DHL;0008 20 20 25;04 72 61 30 00
+1078;Transporteurs;DHL;;04 72 61 30 59
+1079;Transporteurs;DHL;0008 20 20 25;02 31 84 01 25
+1080;Transporteurs;DHL;0008 20 20 80;04 38 02 17 80
+1081;Transporteurs;DHL;;05 61 71 07 07
+1082;Transporteurs;DHL;;01 41 62 93 09
+1083;Transporteurs;DHL;;04 72 61 30 98
+1084;Transporteurs;DHL;;01 80 14 63 32
+1085;Transporteurs;DHL;;02 38 42 28 00
+1086;Transporteurs;DHL Express;;01 53 00 75 00
+1087;Transporteurs;DHL Express;;09 70 80 93 45
+1088;;Diamant Unique;0810 00 54 55;01 41 60 19 24
+1089;;Digital Vision;0008 20 06 67;04 72 83 75 20
+1090;;digitick.com;;04 91 05 58 52
+1091;;digitick.com;;04 91 05 15 57
+1092;;Dim;0800 74 07 04;03 85 86 62 26
+1093;;DimiPro.fr;0008 92 70 11;03 69 22 85 18
+1094;;Dinhosting.fr;;09 74 53 40 29
+1095;Administrations;Direct Assurance;0008 20 00 02;01 46 14 44 00
+1096;Administrations;Direct Assurance;0008 20 00 06;01 46 14 44 00
+1097;Administrations;Direct Assurance;;09 70 80 80 01
+1098;Administrations;Direct Assurance;0820 00 06 66;01 55 92 27 20
+1099;Administrations;Direct Assurance;;01 49 65 25 55
+1100;;Direct Energie;;09 70 80 69 69
+1101;;Direct Fournitures;0008 99 03 06;03 88 56 40 00
+1102;;Direction Départementale Travail Emploi Formation Professionnelle;0820 82 09 02;03 44 06 26 26
+1103;;Direction Générale des Finances Publiques;0810 01 20 09;03 20 62 42 42
+1104;;Disney Chanel;;01 64 17 21 00
+1105;;Disneyland Paris;;01 60 30 60 53
+1106;;Disneyland Paris;0825 30 02 22;01 60 30 60 42
+1107;;Disneyland Paris;0825 30 02 22;01 60 30 10 21
+1108;;Dispofi;;05 67 04 04 40
+1109;;Domeo;0811 65 00 76;04 72 13 84 00
+1110;;Dominos Pizza;0000 00 39 59;02 43 50 00 00
+1111;;Dominos Pizza;0000 00 39 59;01 40 47 07 07
+1112;;Dominos pizza;;02 41 20 32 22
+1113;;Dominos Pizza;0000 00 39 59;01 42 55 03 03
+1114;;Domoclim;0008 20 00 02;02 32 12 34 54
+1115;;Domoclim;0008 20 00 02;02 32 12 34 52
+1116;;Domoti SAS;0892 46 04 40;09 51 78 32 77
+1117;;Douanes;0008 11 20 44;01 72 40 78 50
+1118;;Dr. Pierre Ricaud;;08 05 02 31 33
+1119;Transporteurs;Ducros Express;;04 78 14 19 20
+1120;;E Front;0825 38 85 88;01 49 96 40 60
+1121;;E Front;0008 10 00 60;01 49 96 40 60
+1122;;e-Avantage;0820 20 00 16;01 34 05 95 09
+1123;;E-Bookers;;01 45 08 30 84
+1124;;e-Vitale;0008 20 40 27;04 94 23 30 20
+1125;;E=M6;;01 46 84 10 28
+1126;Voyages;Easyjet;;01 49 75 15 15
+1127;;Easyparapharmacie.com;;04 26 70 70 70
+1128;;Easyparapharmacie.com;0892 18 91 90;04 93 89 49 23
+1129;;eBay;;01 73 00 17 10
+1130;;EBP;0811 65 20 00;01 34 94 80 00
+1131;;eBuyClub;0891 65 00 08;01 49 49 05 58
+1132;;Ecole des Loisirs;0008 10 33 16;01 42 22 94 10
+1133;;Ecotour Voyages;0899 23 20 00;01 39 61 23 00
+1134;;Ecotour Voyages;0899 23 20 00;01 70 36 50 02
+1135;;Ecureil Assurance;;05 56 64 46 19
+1136;;Ecureuil Négoce;0820 20 84 84;05 62 24 76 22
+1137;;Eden;0825 56 06 50;04 92 91 91 91
+1138;;Edenred;;09 70 80 52 90
+1139;;EDF;0008 10 01 03;01 42 23 30 10
+1140;;EDF;;01 42 23 30 10
+1141;;EDF;;04 72 75 47 51
+1142;;EDF;0810 33 37 76;05 96 59 23 70
+1143;;EDF;;05 56 41 80 40
+1144;;EDF;;09 69 39 44 12
+1145;;EDF;;04 74 24 60 84
+1146;;EDF;;04 95 65 01 56
+1147;;EDF;;04 68 20 40 81
+1148;;EDF;0810 01 03 33;09 69 39 44 11
+1149;;EDF;;09 69 39 33 07
+1150;;EDF;;09 69 36 66 66
+1151;;Edf - Réseau - Distribution;0820 03 19 22;04 88 78 81 10
+1152;;EDF Bleu Ciel;;09 69 39 33 01
+1153;;EDF ENR;0810 33 33 67;04 27 19 43 90
+1154;;EDF GDF;;04 95 55 77 00
+1155;;EDF GDF;0810 33 31 03;04 70 97 84 30
+1156;;EDF GDF;;04 68 71 73 98
+1157;;EDF Martinique;0810 33 39 72;05 96 59 22 00
+1158;;EDF-GDF;0810 01 03 33;01 45 65 10 10
+1159;;Ediloisir.com;0825 16 60 40;05 62 00 82 28
+1160;;Editions Atlas;0008 92 68 77;05 57 14 69 70
+1161;;Editions Atlas;0008 92 68 77;08 00 27 60 60
+1162;;eDreams;0899 65 03 21;01 70 36 03 04
+1163;;EFFIA Stationnement;0825 88 88 26;01 48 70 71 21
+1164;;Effico;;02 47 64 87 67
+1165;;Egédis Carburants;0820 42 84 29;02 99 62 80 62
+1166;;EGT;0008 10 15 20;01 46 13 59 00
+1167;;Electro-Tech;0892 69 10 32;04 72 91 20 28
+1168;;Electrolux;;03 44 62 20 00
+1169;;Electrolux Loisir;;03 20 92 55 53
+1170;;Electronique Service Languedoc;0892 70 13 34;04 67 15 96 30
+1171;;Elephantbird;0825 62 28 80;01 47 66 28 80
+1172;;Elis;;04 68 41 06 84
+1173;;Elite Moteurs;0825 00 55 55;04 93 69 56 56
+1174;;Enersys;0008 25 03 13;03 88 59 03 59
+1175;;ENIM - Sécurité sociale des marins;0811 70 17 03;02 96 55 32 32
+1176;;Entreprise Jean Cuvelier;0008 25 02 05;03 20 25 46 25
+1177;;Eps Télésurveillance;0820 77 12 21;03 69 74 03 33
+1178;;Equipement;0008 25 82 50;05 62 51 41 41
+1179;;ERDF;0008 20 03 19;04 88 78 81 10
+1180;;ERDF;;09 69 39 33 05
+1181;;ERDF;;04 93 69 69 69
+1182;;ERDF;0810 81 13 29;04 42 74 98 25
+1183;;ERDF;0810 81 13 29;09 69 39 44 16
+1184;;ERDF GRDF;0820 33 34 33;05 55 41 41 02
+1185;;ERDF GRDF;0008 10 43 73;04 90 13 27 00
+1186;;Esoph;0008 91 70 07;01 53 33 89 90
+1187;;ESPA France;0820 20 72 71;04 68 63 76 37
+1188;Telecoms;Espace SFR;;04 68 47 56 93
+1189;Telecoms;Espace SFR;;04 91 43 18 91
+1190;Telecoms;Espace SFR Ephone;;04 68 90 23 90
+1191;;Esso;;04 68 78 68 71
+1192;;Esterra;0825 12 59 62;03 28 37 70 10
+1193;;Etap Hotel;0892 68 01 57;03 84 47 42 43
+1194;;Etap Hotel;0892 70 03 24;04 73 23 00 04
+1195;;Etap Hôtel;;04 68 72 34 34
+1196;;Etoile Direct;;01 41 86 92 57
+1197;;Etoile Direct;;01 46 84 10 47
+1198;;Etoile Direct;;01 41 86 92 58
+1199;;Euro Assurance;0820 22 24 24;01 49 15 74 03
+1200;;Eurofil;0008 25 80 58;02 35 12 55 35
+1201;;Eurofil;0800 71 51 00;02 36 16 80 55
+1202;;Eurolines;0892 89 90 91;01 43 54 11 99
+1203;;Eurolines;0008 92 89 90;04 72 41 72 43
+1204;;Eurone;0008 25 88 80;01 41 52 16 20
+1205;;Europcar;;01 55 66 83 00
+1206;;Europcar;0825 81 00 81;04 93 21 36 44
+1207;;Europcar;0825 85 74 79;03 88 15 03 75
+1208;;Europcar;0825 88 70 90;04 76 86 11 11
+1209;;Europcar;0825 83 77 90;04 76 22 89 03
+1210;;Europcar;;01 30 43 91 99
+1211;;Europcar;;01 78 42 77 71
+1212;;Europcar;;01 53 20 66 72
+1213;;Europcar;0825 82 54 38;01 53 33 83 11
+1214;;Europcar;0008 25 82 54;01 49 75 47 35
+1215;;Europcar France;;04 68 32 34 54
+1216;;Europcar France;;04 68 72 23 69
+1217;;Europe 1;;01 47 02 30 25
+1218;;Europe 2;0897 89 10 11;01 46 84 10 84
+1219;;Européenne d'Assurances;0826 10 64 46;01 46 43 64 64
+1220;;Euroshopping.fr;0892 89 22 40;09 72 72 01 11
+1221;;Eveil et Jeux;;01 41 44 51 52
+1222;;Exclu Mariage;;01 44 94 08 83
+1223;;Express des Iles;0825 35 90 00;05 96 60 27 73
+1224;;Express Line;;01 41 86 24 92
+1225;;Externet World;0008 20 36 32;01 47 63 30 84
+1226;;Externet World;0008 20 36 32;01 47 66 32 86
+1227;;Externet World;0008 20 36 32;01 47 66 14 82
+1228;;Facet;0810 20 92 09;09 69 32 05 02
+1229;;FagorBrandt SAS - Fagor;0008 92 02 88;09 69 39 25 25
+1230;;FDI MATELEC;0008 92 35 01;02 51 61 69 69
+1231;;Fdjeux - Française des Jeux;;09 69 36 60 60
+1232;;Fedex;0820 12 38 00;01 40 85 37 32
+1233;;Fedex;0820 12 38 00;01 40 85 38 29
+1234;;Fedex;0820 12 38 00;01 40 85 38 88
+1235;;Fedex;;02 47 42 30 00
+1236;;Fedex Tatex;0820 12 38 00;03 80 52 03 80
+1237;;FEPEM - Fédération Nationale des Particuliers Employeurs;0008 25 07 64;05 61 62 02 06
+1238;;Fidem;0008 20 06 05;09 69 32 04 96
+1239;;Filaction;0892 46 01 12;05 62 72 45 42
+1240;;Filles Tv;0008 92 02 92;01 75 00 19 50
+1241;;Finaref;;03 20 69 52 97
+1242;;Finaref;;03 20 69 53 49
+1243;;Finaref;;03 20 69 51 48
+1244;;firstcdiscount.com;;08 05 62 66 72
+1245;;Flexiloc;0821 20 02 30;05 62 05 96 53
+1246;;Florajet;;04 66 27 77 19
+1247;;Fly;;04 68 41 75 10
+1248;;Flying Blue;0000 00 32 72;01 58 68 68 68
+1249;;FMP;0821 08 90 00;01 40 18 74 54
+1250;Commerces;Fnac;;01 49 07 08 79
+1251;Commerces;Fnac;;04 72 41 80 74
+1252;Commerces;Fnac;;04 42 90 65 00
+1253;Commerces;Fnac;;04 50 88 90 08
+1254;Commerces;Fnac;;01 43 42 24 81
+1255;Commerces;Fnac;;05 59 03 06 10
+1256;Commerces;Fnac;;05 56 02 20 00
+1257;Commerces;Fnac;;01 47 12 45 80
+1258;Commerces;Fnac;;02 48 50 95 70
+1259;Commerces;Fnac;;02 31 39 41 40
+1260;Commerces;Fnac;;01 30 75 38 63
+1261;Commerces;Fnac;;02 37 84 20 51
+1262;Commerces;Fnac;;03 89 29 25 22
+1263;Commerces;Fnac;;01 53 10 44 51
+1264;Commerces;Fnac;;03 80 44 95 93
+1265;Commerces;Fnac;;01 53 53 64 43
+1266;Commerces;Fnac;;01 69 87 40 17
+1267;Commerces;Fnac;;04 76 20 40 54
+1268;Commerces;Fnac;;01 40 90 44 54
+1269;Commerces;Fnac;;02 32 74 07 10
+1270;Commerces;Fnac;;01 40 41 40 00
+1271;Commerces;Fnac;;05 55 49 17 92
+1272;Commerces;Fnac;;04 78 71 87 59
+1273;Commerces;Fnac;;04 91 39 94 67
+1274;Commerces;Fnac;;01 49 54 30 22
+1275;Commerces;Fnac;;03 89 36 09 68
+1276;Commerces;Fnac;;03 83 17 37 37
+1277;Commerces;Fnac;;01 48 15 68 99
+1278;Commerces;Fnac;;01 55 81 53 86
+1279;Commerces;Fnac;;05 59 98 64 00
+1280;Commerces;Fnac;;05 49 01 15 90
+1281;Commerces;Fnac;;02 99 67 09 06
+1282;Commerces;Fnac;;01 49 35 20 16
+1283;Commerces;Fnac;;01 55 31 20 93
+1284;Commerces;Fnac;;03 88 52 53 59
+1285;Commerces;Fnac;;01 44 09 18 00
+1286;Commerces;Fnac;;04 94 03 80 39
+1287;Commerces;Fnac;;05 61 11 30 41
+1288;Commerces;Fnac;;02 47 31 90 33
+1289;Commerces;Fnac;;01 64 63 30 50
+1290;Commerces;Fnac;;03 27 28 84 09
+1291;Commerces;Fnac;0008 25 02 00;01 39 23 35 20
+1292;Commerces;Fnac;0008 25 02 00;01 39 23 35 10
+1293;Commerces;Fnac;0008 25 02 00;09 69 36 06 36
+1294;Commerces;Fnac;0008 25 02 00;04 77 43 35 54
+1295;Commerces;Fnac;0008 25 02 00;02 97 84 38 23
+1296;Commerces;Fnac;;01 55 31 21 36
+1297;Commerces;Fnac;0008 25 02 00;02 40 12 46 01
+1298;Commerces;Fnac;0008 25 02 00;02 51 72 47 24
+1299;Commerces;Fnac;0008 25 02 00;05 62 88 20 44
+1300;Commerces;Fnac;;01 58 42 21 15
+1301;Commerces;Fnac;;01 40 90 40 91
+1302;Commerces;Fnac;;04 78 71 87 60
+1303;Commerces;Fnac;;04 67 99 73 23
+1304;Commerces;Fnac.com;0008 92 68 36;01 41 57 32 19
+1305;Transporteurs;FONGECFA transport;0820 22 02 02;01 44 64 39 00
+1306;Administrations;Fongecif Alsace;0008 10 81 11;03 89 20 17 50
+1307;;Formica;;04 68 20 18 30
+1308;Banques;Fortis Banque;0008 25 02 70;01 34 41 11 08
+1309;Banques;Fortuneo;;01 70 38 55 41
+1310;Banques;Fortuneo Banque;0008 11 13 51;02 98 42 65 34
+1311;;Foxchip.com;0892 16 00 90;01 69 90 11 16
+1312;;FRAM;;05 62 15 16 17
+1313;;France 2;0008 25 05 55;01 56 22 67 02
+1314;;France Abonnements;0892 89 02 30;09 78 97 04 50
+1315;;France Abonnements;0008 25 82 62;09 78 97 04 50
+1316;;France Abonnements;0008 25 28 27;01 41 58 72 00
+1317;;France Abonnements;0892 89 24 50;03 44 58 46 00
+1318;;France Abonnements;;01 73 60 01 63
+1319;;France Abonnements - ADLPartner;0825 28 29 30;01 41 58 70 00
+1320;;France Arno;;04 68 32 73 58
+1321;Assurances;France Assistance;0810 41 05 90;06 18 08 11 72
+1322;;France Casse;;04 72 79 41 79
+1323;;France Fermetures;0008 25 08 84;05 55 65 10 11
+1324;;France Fermetures;0008 25 08 84;05 55 82 44 00
+1325;;France Loisirs;;01 44 38 59 00
+1326;;France Loisirs;0892 70 06 05;03 21 51 14 85
+1327;;France Loisirs;;04 68 32 53 48
+1328;;France Loisirs Vacances;0892 39 10 92;01 44 38 59 04
+1329;;France Rénovation et Menuiserie;0008 10 85 81;02 38 70 02 15
+1330;;France Télécom;;01 57 05 06 61
+1331;;France Télécom;;01 57 05 04 73
+1332;;France Télécom;;01 57 05 04 72
+1333;;France Télécom;;01 57 05 06 59
+1334;;France Télécom;;01 57 05 06 56
+1335;;France Télécom;;01 57 05 06 51
+1336;;France Télécom;;01 57 05 04 81
+1337;;francebillet.com;0892 69 26 94;01 41 57 31 41
+1338;Banques;Franfinance;0008 26 82 65;01 41 29 60 00
+1339;Banques;Franfinance;0826 82 65 55;01 41 29 56 50
+1340;Telecoms;Free;;01 42 66 90 04
+1341;Telecoms;Free;;08 05 92 55 55
+1342;Telecoms;Free;0008 99 10 38;02 35 03 18 51
+1343;Telecoms;Free;;01 76 24 47 78
+1344;Telecoms;Free;;00 00 00 10 44
+1345;Telecoms;Free Boutique;;02 35 03 18 51
+1346;;FujiFilm;0825 89 32 08;01 30 14 34 56
+1347;;Fun Radio;;01 42 48 50 00
+1348;;FX Model;0826 10 06 41;02 40 97 60 41
+1349;;FX Model;0826 10 06 41;02 28 21 87 70
+1350;;Galeries Lafayette;;01 44 54 44 54
+1351;;Galeries Lafayette Fidélité;0008 20 83 08;09 69 39 30 33
+1352;;Games Loisirs;0825 31 22 15;04 93 22 55 21
+1353;;Gan Assurances;;04 68 71 05 24
+1354;;Gardiner;0008 25 05 50;01 58 02 02 02
+1355;;Gare de Toulouse;0000 00 36 35;05 61 10 11 04
+1356;;Garmin;0825 30 30 35;01 55 17 81 89
+1357;;Gaz de France - GDF;;04 68 47 50 89
+1358;;Gaz de France Dolce Vita;;09 87 67 54 75
+1359;;GDF;;01 41 86 42 50
+1360;;GDF;;02 38 52 85 70
+1361;;GDF;;01 57 05 03 96
+1362;;GDF;0810 43 30 34;08 00 47 33 33
+1363;;GDF - Gaz de France;;01 41 86 42 51
+1364;;GDF - Gaz De France;0811 01 30 00;01 41 86 42 50
+1365;;GDF - Gaz de France;;01 41 86 42 00
+1366;;GDF Suez;0810 12 41 25;01 44 22 00 00
+1367;;GE Money Bank;0008 92 68 86;01 58 13 37 00
+1368;;generation.fr;0820 90 49 04;02 98 51 38 00
+1369;Transporteurs;Geodis Calberson;;05 57 35 60 60
+1370;Transporteurs;Geodis Calberson;0008 92 05 28;01 53 44 00 03
+1371;Transporteurs;Geodis Ciblex;0008 26 82 69;01 56 76 27 03
+1372;;GeoSaas;0811 69 60 10;01 83 64 23 55
+1373;;GFP Gestion Formation Prévoyance Et Services;0008 25 80 11;02 48 65 20 26
+1374;Commerces;GIFI;;04 68 42 48 30
+1375;;Gigaset;;01 57 32 45 22
+1376;Voyages;Gites de France;;04 68 11 40 70
+1377;;Gl Events Services;;04 72 31 54 50
+1378;;Global New Media;0008 25 34 56;01 53 24 26 80
+1379;;Global New Media;0008 25 07 55;01 53 24 26 81
+1380;;GLS;;08 06 00 60 06
+1381;Assurances;GMF;;01 30 72 81 19
+1382;Assurances;GMF;0008 20 80 98;05 63 47 07 38
+1383;Assurances;GMF;;03 87 39 92 58
+1384;Assurances;GMF;0008 20 80 98;02 41 50 99 19
+1385;Assurances;GMF;;02 23 21 10 15
+1386;Assurances;GMF;;09 70 80 98 09
+1387;Assurances;GMF;;04 91 13 70 78
+1388;Assurances;GMF;0820 80 98 09;05 58 74 22 98
+1389;Assurances;GMF;;04 78 41 18 97
+1390;Assurances;GMF;;04 78 83 19 34
+1391;Assurances;GMF;;01 47 11 12 13
+1392;Commerces;Go Sport;0008 25 10 60;01 41 02 93 00
+1393;Commerces;Go Sport;0008 25 10 60;04 73 27 50 30
+1394;Commerces;Go Sport;0008 25 10 60;04 50 74 52 72
+1395;Commerces;Go Sport;0008 25 10 60;05 46 90 39 00
+1396;Commerces;Go Sport;0008 25 10 60;04 76 28 20 20
+1397;Commerces;Go Sport;0008 25 10 60;02 47 46 57 00
+1398;Commerces;Go Sport;0008 25 10 60;03 26 77 55 22
+1399;Commerces;Go Sport;0008 25 10 60;04 50 45 29 74
+1400;Commerces;Go Sport;;01 56 53 99 70
+1401;Commerces;Go Sport;0008 25 10 60;04 73 17 34 80
+1402;Commerces;Go Sport;0008 25 10 60;02 40 35 05 00
+1403;;Goldway;0008 25 00 40;04 92 59 17 17
+1404;Voyages;Govoyages.com - Go voyages;0892 23 03 13;01 53 40 12 92
+1405;Voyages;Govoyages.com - Go voyages;;01 53 40 44 14
+1406;Voyages;Govoyages.com - Go voyages;;01 70 60 77 11
+1407;Voyages;Govoyages.com - Go voyages;;01 53 40 30 99
+1408;Voyages;Govoyages.com - Go voyages;;01 72 63 70 00
+1409;Voyages;Govoyages.com - Go voyages;;01 72 63 70 17
+1410;Voyages;Govoyages.com - Go voyages;;01 53 40 44 16
+1411;Voyages;Govoyages.com - Go voyages;;01 53 40 70 99
+1412;Voyages;Govoyages.com - Go voyages;;01 70 60 77 12
+1413;Voyages;Govoyages.com - Go voyages;;01 53 40 12 87
+1414;Voyages;Govoyages.com - Go voyages;;01 70 91 74 74
+1415;Voyages;Govoyages.com - Go voyages;;01 78 41 82 95
+1416;Assurances;GPA Assurances - Generali;0820 20 10 20;01 58 34 13 41
+1417;Assurances;Gras Savoye;0811 74 49 14;01 48 15 28 96
+1418;Assurances;Gras Savoye;;04 77 92 29 29
+1419;;Green Republic;;09 77 40 10 50
+1420;Administrations;Greffe Tribunal de Commerce;;01 46 84 10 83
+1421;Commerces;Grosbill;0008 92 02 21;01 49 79 04 96
+1422;Assurances;Groupama;0008 20 84 08;01 57 05 04 42
+1423;Assurances;Groupama;0008 20 20 53;01 49 20 03 15
+1424;Assurances;Groupama;;01 48 15 41 67
+1425;Assurances;Groupama;0008 20 84 08;01 57 05 04 69
+1426;Assurances;Groupama;;04 68 26 53 06
+1427;Assurances;Groupama;;04 68 69 02 64
+1428;Assurances;Groupama;;04 68 33 31 51
+1429;Assurances;Groupama;;03 26 97 30 00
+1430;Assurances;Groupama Assurances;0008 99 23 96;04 68 40 48 05
+1431;;Groupe Actual;0008 25 77 53;02 43 01 20 34
+1432;;Groupe Com6;0825 00 03 06;04 76 84 24 24
+1433;;Groupe France Ecologie;;01 48 10 68 00
+1434;Assurances;Groupe Mornay;0008 26 08 11;04 67 22 72 36
+1435;;Groupe SMABTP;0810 80 04 00;01 69 81 19 00
+1436;;Groupe SOFEMO;0008 92 70 05;03 88 14 63 00
+1437;Assurances;Groupe Vauban Humanis;0008 20 30 40;02 35 58 28 28
+1438;Commerces;Groupon;;09 77 40 10 50
+1439;Commerces;Groupon;0008 26 10 30;08 00 94 94 25
+1440;;GSELL Maroquinerie;0008 90 71 07;03 82 83 80 86
+1441;;Guide du Routard;;01 75 00 19 54
+1442;;Habitat et Jardin;;04 68 27 36 93
+1443;;Hachette Collections;;01 60 39 65 14
+1444;Assurances;Harmonie Mutuelle;0820 81 18 04;02 38 78 83 83
+1445;Voyages;Havanatour;0008 92 70 22;01 48 01 44 40
+1446;Voyages;Havas Voyages;;01 41 86 24 50
+1447;Voyages;Havas Voyages;0008 26 08 10;01 41 33 67 61
+1448;Voyages;heliades.fr;0826 10 40 80;04 42 90 13 00
+1449;;Hélita;0008 20 08 83;01 45 08 47 47
+1450;;Helpbatteries;0891 70 01 50;04 42 84 47 53
+1451;;Helwett Packard;0820 21 12 11;01 41 86 24 05
+1452;;Helwett Packard;0826 10 49 49;01 73 01 84 71
+1453;;Helwett Packard;;09 69 32 04 35
+1454;Voyages;Hertz;0008 25 35 93;01 41 91 95 25
+1455;Voyages;Hertz;;04 93 21 36 72
+1456;Voyages;Hertz;0825 86 18 61;01 55 69 55 50
+1457;Voyages;Hilton Hotel;0800 37 03 03;03 88 37 10 10
+1458;;Hits And Fun;;01 82 52 19 19
+1459;Voyages;Homair Vacances;0821 20 01 26;04 42 20 47 25
+1460;;Homme Avenue;0820 20 12 07;01 48 23 22 71
+1461;;Honda Finance;;01 60 37 30 00
+1462;Voyages;Hop!;0008 25 30 22;01 72 95 33 33
+1463;Santé;Hôpital Clinique Claude Bernard;0008 26 30 66;03 87 75 48 82
+1464;Santé;Hôpital Européen George Pompidou;;01 56 09 20 00
+1465;Santé;Hôpital Foch;0008 26 20 72;01 46 25 23 74
+1466;Santé;Hôpital Jacques Cartier;0826 66 69 96;01 60 13 60 60
+1467;Santé;Hôpital Local de Nogaro;;05 62 08 85 10
+1468;Santé;Hôpital Privé Beauregard;0008 25 74 34;04 91 12 10 40
+1469;Santé;Hôpital privé Bois-Bernard;0826 30 53 05;03 21 79 27 45
+1470;Santé;Hôpital Privé Claude Galien;0008 26 30 90;01 69 39 90 00
+1471;Santé;Hôpital Privé de l'Estuaire;0008 25 74 75;02 76 89 97 00
+1472;Santé;Hôpital Prive de Marne Chantereine;0008 26 30 00;01 64 72 74 00
+1473;Santé;Hôpital Privé de Versailles - Les Franciscaines;0008 26 30 33;01 30 97 33 33
+1474;Santé;Hôpital Privé Jean Mermoz;0008 26 30 69;04 72 78 54 54
+1475;Santé;Hôpital Privé Résidence du Parc;0826 66 69 66;04 91 83 33 00
+1476;Santé;Hôpital Privé Sainte Marie;0008 26 30 71;03 85 93 63 81
+1477;Santé;Hôpital Privé Vert Coteau - Clinique Vert Coteau;0826 20 73 12;04 91 18 65 62
+1478;;Horiba ABX;0008 10 18 12;04 67 14 15 15
+1479;Santé;Hospices Civils;0825 08 25 00;04 78 86 51 41
+1480;Voyages;Hôtel Alpen Ruitor;;04 79 00 48 48
+1481;Voyages;Hôtel de Ville;0000 00 39 75;01 49 52 53 54
+1482;Voyages;Hôtel Formule 1 - F1;0892 68 56 85;01 56 82 61 12
+1483;Voyages;Hôtel Ibis;;04 68 47 66 00
+1484;Voyages;Hôtel Ibis;;04 78 58 30 70
+1485;Voyages;Hôtel Ibis Budget;0892 70 20 41;05 53 22 80 00
+1486;Voyages;Hôtel Ibis Budget;0089 26 80 86;03 21 87 03 05
+1487;Voyages;Hôtel Ibis Budget;0892 68 09 31;03 89 41 30 14
+1488;Voyages;Hôtel Ibis Budget;0892 68 31 06;04 68 41 12 38
+1489;Voyages;Hôtel Ibis Budget;;01 47 90 73 55
+1490;Voyages;Hôtel Ibis Styles;;03 20 30 00 54
+1491;Voyages;Hôtel Ibis Styles;;04 92 00 59 00
+1492;Voyages;Hôtel Mercure;;04 96 17 22 22
+1493;Voyages;Hôtel Mercure;;03 27 23 50 60
+1494;Voyages;Hôtel Première Classe;0008 92 70 71;04 72 48 96 11
+1495;Voyages;Hôtel Première Classe;0892 70 71 28;01 30 68 17 04
+1496;Voyages;Hôtel Première Classe;0892 68 81 23;03 26 55 15 10
+1497;Voyages;Hôtel Première Classe;0892 70 72 99;01 48 63 28 09
+1498;Voyages;Hôtel Première Classe;0008 92 70 71;01 57 32 35 54
+1499;Voyages;Hôtel Première Classe;0008 92 23 48;05 56 37 68 46
+1500;Voyages;Hôtel Ritz;;01 43 16 30 30
+1501;Voyages;Hotels Best Western;;08 00 90 44 90
+1502;Voyages;Hotels Best Western;;04 67 07 51 61
+1503;Voyages;Hotels Best Western;;04 42 52 75 27
+1504;Voyages;Hotels Le Meridien;;08 00 40 22 15
+1505;;HP - Hewlett Packard;;01 73 01 84 71
+1506;;HP - Hewlett Packard;0826 80 04 00;09 69 32 00 19
+1507;;HP - Hewlett Packard;;09 69 32 04 35
+1508;;HPEL - Hôpital Privé de l'Est Lyonnais;0008 26 96 99;04 78 20 12 83
+1509;Banques;HSBC;0810 24 68 10;01 55 69 74 54
+1510;Banques;HSBC;0810 24 68 10;04 78 86 85 65
+1511;;HTC;0008 92 30 30;01 70 75 91 71
+1512;Assurances;Humanis Aprionis;0820 20 12 01;01 46 84 36 36
+1513;;Hydropole;0810 20 02 48;02 38 43 03 03
+1514;;Hygieau;0810 22 60 00;04 75 58 69 25
+1515;Assurances;I Santé;0820 03 12 43;02 38 90 80 33
+1516;Assurances;IARD Assurances;0008 25 39 40;01 42 79 17 00
+1517;Voyages;Iberia;0825 80 09 65;01 40 47 80 90
+1518;Voyages;Ibis Hôtel;;04 42 27 98 20
+1519;;ICON Health & Fitness France;;01 30 56 49 80
+1520;Assurances;Identicar Assistance;;01 57 05 06 57
+1521;Voyages;IdTGV;;01 45 19 16 37
+1522;Voyages;IdTGV;;02 54 54 67 00
+1523;;IJCOF;0008 26 27 27;04 72 80 16 09
+1524;Commerces;Ikea;;09 69 36 20 06
+1525;Assurances;IMA Téléassistance;0820 06 50 65;05 49 34 76 04
+1526;;Imerys;;04 72 17 08 54
+1527;;Indesit;0825 05 44 44;01 45 32 53 82
+1528;;Index Multimedia;;05 61 43 50 50
+1529;;Indom;0820 77 70 00;01 76 70 05 67
+1530;;Infogreffe;0008 91 01 11;01 41 86 30 05
+1531;;Inforad;0826 10 08 23;01 46 43 50 50
+1532;;Information grippe aviaire;0008 25 30 23;01 53 56 73 23
+1533;Banques;ING Direct;0008 10 83 08;01 57 22 54 01
+1534;Banques;ING Direct;;01 57 22 52 00
+1535;Administrations;INPI;;01 53 04 53 04
+1536;Santé;Institut Pasteur;0008 90 71 08;01 57 05 05 53
+1537;Commerces;Interflora;0008 25 20 20;09 69 36 39 83
+1538;;Interiale;0890 89 00 00;01 77 86 99 42
+1539;;Intex;0890 71 20 39;03 85 75 64 78
+1540;;Intracail Center;;03 22 82 02 02
+1541;;Intrum Justitia;0008 26 27 27;04 72 80 14 15
+1542;;Intrum Justitia;0008 26 27 27;08 20 21 24 24
+1543;;Investir Magazine;;01 41 86 26 22
+1544;;Investir Magazine;;01 55 56 70 67
+1545;Assurances;Ipeca Gestion;0810 51 05 10;01 56 56 48 00
+1546;Assurances;Ipeca Prevoyance;0810 23 42 34;09 77 42 54 25
+1547;;Ipsec;0810 81 13 22;01 56 21 18 00
+1548;;IRP Auto;0820 22 52 25;01 40 69 40 40
+1549;;Iserba;0008 20 20 16;04 74 96 91 31
+1550;;Iserba;0008 20 20 16;01 69 96 01 26
+1551;;Isotoner;;04 71 69 20 01
+1552;;ISTA France - Comptage Immobilier Services;0820 20 88 02;01 69 19 53 00
+1553;;Itancia Grenoble;0820 20 01 25;04 38 12 35 30
+1554;;Jazz in Marciac;;05 62 09 31 98
+1555;;Jeux Magazine;;01 46 84 10 12
+1556;;Jours Heureux - joursheureux.fr;0008 92 68 60;03 20 11 45 00
+1557;;Jours Heureux - joursheureux.fr;0008 92 68 60;03 20 11 45 00
+1558;;Kabiloo.com;;02 43 75 49 94
+1559;;Kalidea;0825 88 50 03;09 74 50 10 20
+1560;;Kalidea;;09 70 25 31 16
+1561;;Karcher;0825 82 01 50;01 43 99 67 16
+1562;;Kebello.com;0892 70 08 50;09 52 05 70 90
+1563;;Keyyo Business;0825 67 56 75;03 22 20 03 22
+1564;;KFC - Kentucky Fried Chicken;;01 42 81 56 40
+1565;;kgbdeals.fr;;01 70 36 01 24
+1566;Commerces;Kiabi;;09 69 32 00 23
+1567;;Kinedo;0008 10 05 19;02 40 21 31 30
+1568;;King Marcel;;04 78 24 04 54
+1569;Voyages;KLM;0892 70 26 08;09 69 36 86 05
+1570;;Kodak;;01 71 23 07 30
+1571;;Kone;8110 71 17 11;01 47 94 03 55
+1572;;Kp1;;04 32 75 12 00
+1573;;Kwixo;;09 74 50 85 05
+1574;;Kwixo;;09 74 50 85 09
+1575;Voyages;Kyriad;;05 61 71 41 71
+1576;Voyages;Kyriad;;05 46 27 31 31
+1577;Voyages;Kyriad;;02 47 64 71 78
+1578;Voyages;Kyriad;0892 23 48 16;05 59 69 28 77
+1579;;L'Annuaire Universel;;01 43 06 06 06
+1580;;L'Hebdo;;01 57 05 05 05
+1581;Banques;La Banque Postale;0000 00 36 39;01 45 45 36 39
+1582;Banques;La Banque Postale;0008 99 19 42;03 88 52 35 56
+1583;Banques;La Banque Postale;0000 00 36 39;05 57 78 78 14
+1584;Banques;La Banque Postale;0000 00 36 39;02 40 12 60 11
+1585;Banques;La Banque Postale;0000 00 36 39;01 53 68 54 37
+1586;Banques;La Banque Postale;0000 00 36 39;01 53 68 54 57
+1587;Banques;La Banque Postale;0000 00 36 39;02 47 52 65 67
+1588;Banques;La Banque Postale;0000 00 36 39;01 57 05 04 23
+1589;Banques;La Banque Postale;0820 82 68 26;09 69 36 39 49
+1590;Banques;La Banque Postale;;01 53 68 37 37
+1591;Banques;La Banque Postale;;02 32 81 78 12
+1592;Banques;La Banque Postale;;04 67 34 57 66
+1593;Banques;La Banque Postale;0000 00 36 39;01 53 68 57 32
+1594;Banques;La Banque Postale;0000 00 36 39;04 91 10 94 50
+1595;;La Boutique du Monde;;01 41 86 26 87
+1596;;La Boutique du Net - Laboutiquedunet.com;0892 88 82 98;04 78 41 11 04
+1597;;La Bovida SA;0820 20 09 91;02 48 66 73 00
+1598;;La Ferme de Manon;0825 62 00 50;04 69 31 80 11
+1599;;La Maison de Valérie;;02 54 42 78 52
+1600;;La Maison de Valérie;;09 74 75 05 15
+1601;;La Maison de Valérie;;02 54 81 50 50
+1602;;La Maison du Jersey;0008 92 70 16;09 69 32 00 13
+1603;Assurances;La Mutuelle Générale;0800 45 54 55;02 51 70 21 00
+1604;Assurances;La Mutuelle Générale;;09 69 32 34 44
+1605;;La Nouvelle République;0008 25 31 70;02 47 60 62 60
+1606;Transporteurs;La Poste;;01 55 44 00 00
+1607;Transporteurs;La poste;;05 49 38 01 32
+1608;Transporteurs;La Poste;;04 68 72 23 10
+1609;Transporteurs;La Poste;0008 92 68 32;02 40 12 60 17
+1610;Transporteurs;La Poste;0000 00 36 31;04 67 34 57 66
+1611;Transporteurs;La Poste;;04 68 10 39 70
+1612;Transporteurs;La Poste;;04 68 20 32 00
+1613;Transporteurs;La Poste;;04 68 20 32 60
+1614;Transporteurs;La Poste;;04 68 24 98 89
+1615;Transporteurs;La Poste Courrier Entreprise;0000 00 36 34;05 63 72 68 40
+1616;Administrations;La Prévention Routière;;04 68 25 49 06
+1617;Commerces;La Redoute;;03 20 30 45 92
+1618;Commerces;La Redoute;;03 20 69 85 49
+1619;Commerces;La Redoute;;03 20 30 45 92
+1620;Commerces;La Redoute;;09 69 36 29 50
+1621;Commerces;La Redoute;;01 40 45 42 38
+1622;Commerces;La Redoute;0008 92 35 03;01 40 45 42 38
+1623;Commerces;La Redoute;;01 41 86 21 84
+1624;Commerces;La Redoute;;01 41 86 21 79
+1625;Commerces;La Redoute;;01 41 86 21 78
+1626;;La Stéphanoise des Eaux;0810 36 83 68;09 77 40 94 41
+1627;;La Voix du Cinéma;0008 92 68 05;01 57 05 05 83
+1628;;La-maison-de-catherine.com;0892 18 02 60;03 26 35 08 35
+1629;;Laboratoires Yves Ponroy;0008 21 00 00;02 51 09 07 45
+1630;;Labrousse;0825 00 25 10;05 65 40 80 13
+1631;;Laden;0892 02 88 04;09 69 39 01 20
+1632;;Lamartine;;01 76 78 34 80
+1633;Commerces;Lapeyre;0825 82 51 77;01 60 68 44 99
+1634;Commerces;Lapeyre;0825 82 52 69;04 78 66 66 02
+1635;Commerces;Lapeyre;0008 25 82 53;05 56 43 28 43
+1636;Commerces;Lapeyre;0825 82 51 31;05 61 70 11 09
+1637;Commerces;Lapeyre;0825 82 51 64;05 59 52 06 78
+1638;Commerces;Lapeyre;0825 82 51 49;02 41 36 53 00
+1639;Commerces;Lapeyre;0825 82 51 78;01 30 94 61 40
+1640;Commerces;Lapeyre;0825 82 51 38;04 76 51 95 57
+1641;;Lasertel;;01 75 00 19 52
+1642;;Last minute;;04 66 92 30 29
+1643;Voyages;Lastminute.com;0892 68 61 00;01 45 19 76 14
+1644;Voyages;Lastminute.com;0892 68 61 00;01 53 63 28 23
+1645;Voyages;Lastminute.com;;01 45 19 76 18
+1646;Voyages;Lastminute.com;0008 92 23 01;01 70 92 31 05
+1647;;Laura Kent - Laurakent.fr;0008 92 68 41;01 23 45 67 89
+1648;;Laverie Aquaria;0008 20 20 17;01 60 22 78 28
+1649;Banques;LCL;0825 31 03 10;02 31 21 28 00
+1650;Banques;LCL;;03 20 41 56 61
+1651;Banques;LCL;;02 98 44 94 86
+1652;Banques;LCL;0820 82 35 01;01 41 22 03 71
+1653;Banques;LCL;;01 39 17 35 83
+1654;Banques;LCL;0820 82 34 01;01 53 68 98 41
+1655;Banques;LCL;0969 32 03 10;04 42 60 53 02
+1656;Banques;LCL;;01 49 85 84 47
+1657;Banques;LCL;0820 82 35 45;04 73 77 53 31
+1658;Banques;LCL;;09 69 36 30 30
+1659;;Le Bon Prix;;03 20 66 84 25
+1660;;Le Géant des Beaux-Arts;0008 25 02 02;03 88 02 02 33
+1661;;Le Grand Livre du Mois;0892 16 22 00;03 44 06 41 62
+1662;;Le Jardin de Catherine;0891 70 02 06;03 26 86 65 05
+1663;;Le Monde;0000 00 32 89;01 76 26 32 89
+1664;;Le Monde;;01 57 28 20 00
+1665;;Le Monde en Parfum;;02 97 73 63 63
+1666;;Le Numéro;;01 70 36 01 18
+1667;;Leaseplan;0825 74 37 42;01 56 84 10 10
+1668;Commerces;leboncoin.fr;;01 53 40 96 06
+1669;Commerces;leboncoin.fr;;01 30 84 83 13
+1670;Voyages;Leclerc Voyages;;02 37 37 51 51
+1671;;Lenatec;0008 26 62 12;04 94 17 10 86
+1672;;Leprogres.fr;0008 25 01 80;04 72 22 23 23
+1673;Commerces;Leroy Merlin;0820 12 04 69;04 72 14 28 29
+1674;Commerces;Leroy Merlin;0820 12 04 69;04 72 14 28 28
+1675;Commerces;Leroy Merlin;0810 63 46 34;01 41 29 35 35
+1676;Commerces;Les 3 Suisses;;03 20 20 30 30
+1677;Commerces;Les 3 Suisses;0008 92 68 34;03 20 20 30 50
+1678;Commerces;Les 3 Suisses;0811 46 05 10;03 20 20 30 30
+1679;Commerces;Les 3 Suisses;;03 20 20 17 96
+1680;Commerces;Les 3 Suisses;0008 92 69 15;03 20 20 31 00
+1681;Commerces;Les 3 Suisses;;03 20 20 17 30
+1682;Voyages;Les Clubs Vacanciel;;01 49 96 45 00
+1683;Assurances;Les Mutuelles du Soleil;;09 69 32 03 22
+1684;Voyages;Les Villages Clubs du Soleil;0825 80 28 05;04 91 04 87 00
+1685;;Lessives Boules Doseuses;;01 57 05 04 55
+1686;;Lexibook;;01 84 88 58 58
+1687;;LG;0892 56 36 56;00 00 00 32 20
+1688;Commerces;LIDL;0800 00 54 35;04 92 00 08 06
+1689;Commerces;LIDL;0800 00 54 35;04 93 38 13 85
+1690;Commerces;LIDL;0800 00 54 35;04 93 48 30 96
+1691;Commerces;LIDL;0800 00 54 35;04 93 49 22 23
+1692;Commerces;LIDL;0800 00 54 35;04 93 75 12 68
+1693;Commerces;LIDL;0800 00 54 35;04 92 00 56 71
+1694;Commerces;LIDL;0800 00 54 35;04 93 97 00 20
+1695;Commerces;Lidl;0800 00 54 35;01 71 23 02 83
+1696;Commerces;LIDL;;04 94 99 60 00
+1697;Telecoms;Ligne Distributeurs Mobistore;;01 57 05 04 78
+1698;Transporteurs;Lignes Express Régionales Région PACA - LER;0821 20 22 03;04 91 57 50 57
+1699;;Linéa;0008 10 78 03;03 88 58 58 00
+1700;;Linvoges;0892 68 88 13;03 29 60 91 59
+1701;;Linvosges;;01 43 80 28 43
+1702;;Linvosges;;03 29 60 11 11
+1703;Assurances;LMDE - La Mutuelle des Etudiants;0000 00 32 60;01 40 92 54 85
+1704;Assurances;LMDE - La Mutuelle des Etudiants;0000 00 32 60;01 40 92 54 80
+1705;Assurances;LMDE - La Mutuelle des Etudiants;0000 00 32 60;09 69 36 96 01
+1706;;LOCAM;0892 30 08 92;09 70 80 87 02
+1707;Voyages;locasun.fr;0820 90 04 06;01 34 44 07 30
+1708;Voyages;Locationdevoiture.fr;0800 73 37 33;01 73 79 33 33
+1709;;Logitech;;01 57 32 32 71
+1710;Voyages;Lokeo - Boulanger Location;;03 20 49 58 87
+1711;Voyages;Louvre Hôtels;;02 54 55 06 83
+1712;;Lovecar.fr;0008 20 20 11;03 20 81 40 66
+1713;;Loxam;;04 78 90 88 34
+1714;Voyages;Lufthansa;0820 02 00 30;01 41 73 63 30
+1715;Voyages;Lufthansa;0892 23 16 90;01 70 91 76 60
+1716;;Lutti;;03 66 19 05 02
+1717;Assurances;Lybernet Assurances;0825 07 72 33;02 41 36 64 08
+1718;Banques;Lyonnaise de Banque;0820 90 07 18;04 78 92 02 12
+1719;;Lyonnaise des eaux;0008 10 46 94;04 92 96 99 97
+1720;;Lyonnaise des eaux;0008 10 46 94;04 92 98 60 73
+1721;;Lyonnaise des eaux;0810 51 45 14;04 78 48 47 23
+1722;;Lyonnaise des Eaux;0810 51 45 14;04 72 31 92 48
+1723;;Lyonnaise des Eaux;0810 47 94 79;09 77 40 94 43
+1724;;Lyonnaise des eaux;;04 68 79 14 90
+1725;;M6;0000 00 36 06;01 41 92 66 66
+1726;;M6 Boutique;;01 41 86 42 48
+1727;;M6 boutique;0892 89 26 66;09 74 75 66 66
+1728;;M6 Boutique;;01 41 86 24 23
+1729;;M6 Boutique;;01 41 86 30 08
+1730;;M6 Mobil;;01 46 84 10 92
+1731;;M6 Téléspectateurs;;01 72 29 70 36
+1732;Assurances;MAAF;;01 46 84 10 42
+1733;Assurances;MAAF;;04 68 32 31 21
+1734;Assurances;MACIF;0820 82 58 26;02 47 71 78 00
+1735;Assurances;MACIF;0820 82 68 27;04 75 05 42 33
+1736;Assurances;MACIF;0008 20 87 88;05 53 68 10 10
+1737;Assurances;MACIF;0008 20 33 30;04 94 10 13 40
+1738;Assurances;MACIF;;09 69 39 49 49
+1739;Assurances;MACIF;;01 55 56 57 68
+1740;Assurances;MACIF;0820 07 40 74;01 55 56 57 58
+1741;Assurances;MACIF;;09 69 39 49 69
+1742;Assurances;MACIF;;09 69 39 49 30
+1743;Assurances;MACIF;;09 69 39 49 65
+1744;Assurances;MACIF;;09 69 39 49 65
+1745;Assurances;MACIF;;09 69 39 49 40
+1746;Assurances;MACIF;;09 69 39 49 40
+1747;Assurances;MACIF;;09 69 39 49 65
+1748;Assurances;MACIF;;
+1749;Assurances;MACIF;;09 69 39 49 40
+1750;Assurances;MACIF;;09 69 39 49 39
+1751;Assurances;MACIF;;09 69 39 49 09
+1752;Assurances;MACIF;;09 69 39 49 19
+1753;Assurances;MACIF Mutualité;;09 69 39 49 80
+1754;Assurances;MACSF;0000 00 32 33;01 71 14 32 33
+1755;;Made in Sport;0892 30 09 00;01 70 46 74 46
+1756;;Madeleine;0008 92 68 89;03 88 68 18 35
+1757;Assurances;MAE;;02 32 83 60 68
+1758;Assurances;MAE;;02 32 83 66 00
+1759;Voyages;Maeva;0008 25 04 06;01 58 21 55 50
+1760;;Magellan Bio;0892 39 51 00;03 20 84 50 67
+1761;;Magiline;0820 25 04 81;03 25 45 25 21
+1762;Assurances;MAIF;;04 68 66 26 40
+1763;Assurances;MAIF;;04 68 10 26 10
+1764;Assurances;MAIF;;09 72 72 15 15
+1765;Administrations;Mairie de Marseille - Allo Mairie;0810 81 38 13;04 91 55 11 11
+1766;Assurances;Mairie de Nanterre;0000 00 39 92;01 47 29 50 50
+1767;Administrations;Mairie de Venerque;0008 99 23 84;05 62 11 59 59
+1768;;Maismoinscher.com;;05 63 57 74 09
+1769;;Maison et Confort;0008 92 69 71;03 88 19 10 20
+1770;;Maison Phenix;0000 00 36 20;04 68 32 33 46
+1771;;Maisonic;0820 20 40 92;02 47 34 08 80
+1772;Assurances;Malakoff Médéric;0008 25 07 58;02 41 36 40 40
+1773;Voyages;Malaysia Airlines;0008 92 35 08;01 44 50 15 07
+1774;Commerces;ManoMano.fr;;09 73 72 91 99
+1775;;Mantelsom;0008 10 00 30;01 55 66 06 66
+1776;;Marché Plus;;01 46 84 10 25
+1777;Voyages;MarineLand Antibes;0008 92 30 06;04 93 33 49 49
+1778;;Markania;;01 49 90 00 80
+1779;Voyages;Marmara;0899 65 05 80;04 37 42 84 84
+1780;Voyages;Marmara;0825 16 01 31;01 44 63 58 60
+1781;Voyages;Marmara;;01 73 29 25 00
+1782;Voyages;Marmara Groupe;;01 44 63 63 72
+1783;Voyages;Marmara Réservation Vols;;09 70 80 65 06
+1784;;Martignon Pneus Bonnefoy;0008 26 30 31;05 34 25 12 90
+1785;Assurances;Mastercard Assurance;0825 02 10 00;02 28 21 43 63
+1786;Assurances;Mastercard Gold Carte ZERO;;01 55 17 78 15
+1787;Assurances;Mastercard World Elite;;01 70 77 10 08
+1788;;Mathon;0008 92 39 11;04 76 64 44 65
+1789;Assurances;Matmut Assurances;;04 68 10 21 50
+1790;Assurances;Matmut Assurances;;04 68 65 25 71
+1791;Assurances;Matmut Assurances;;04 68 94 54 55
+1792;;Maty;0892 89 32 93;03 81 50 81 41
+1793;;MAXISCOOT.com;0825 74 22 57;01 70 99 97 35
+1794;Assurances;MCDEF - Mutuelle Cogérée de la Défense;0810 00 10 18;01 44 38 13 00
+1795;Administrations;MDPH - Maison Départementale des Personnes Handicapées;0810 86 20 00;05 49 45 97 77
+1796;;Mediaphone;;01 57 05 04 57
+1797;;Mediaserv Guadeloupe;0008 11 57 57;05 90 57 58 59
+1798;;Médion;0825 81 10 00;02 43 48 15 20
+1799;;Meetic.fr;;01 70 36 03 70
+1800;;MEGA CGR;0008 92 68 85;01 60 17 01 23
+1801;;Meilleurtaux.com;0826 82 62 22;01 41 97 98 99
+1802;;Meilleurtaux.com;;01 84 95 98 98
+1803;;Meliconi France;0825 09 90 85;04 99 52 26 52
+1804;;Memup;0892 70 02 57;01 70 13 91 91
+1805;;MEP;0008 25 08 10;04 91 16 47 16
+1806;;Mercer;;01 55 21 35 00
+1807;;Mercer Human Resource Consulting;0825 38 76 02;01 55 21 35 00
+1808;;Météo Consult;;01 41 86 24 00
+1809;;Météo France;;04 68 11 62 00
+1810;;Météo France;;03 84 97 13 10
+1811;;Metlife;0810 10 02 44;01 49 02 40 00
+1812;;Metlife;0810 10 02 44;08 00 00 02 44
+1813;;Métro;0008 25 09 09;05 34 40 18 27
+1814;;Métro;0008 25 09 09;01 47 86 63 00
+1815;;Métro Bureau;;05 34 40 18 30
+1816;;Métro Cash And Carry France;;04 67 07 70 70
+1817;;meyclub.net;0825 80 80 00;01 70 15 09 73
+1818;Assurances;MFP - Mutualité Fonction Publique;0891 01 65 43;04 67 64 78 00
+1819;Assurances;MFP - Mutualité Fonction Publique;;01 44 10 87 00
+1820;;MFP Services;0821 08 90 00;01 40 18 74 54
+1821;;MFP Services;0821 08 90 00;02 23 21 05 81
+1822;Assurances;MGEN;0000 00 36 76;01 46 84 10 95
+1823;Assurances;MGEN;0000 00 36 76;03 20 57 68 78
+1824;Assurances;MGEN;0000 00 36 76;02 49 79 00 05
+1825;Assurances;MGEN;0000 00 36 76;05 58 45 07 42
+1826;Assurances;MGEN;0000 00 36 76;05 58 85 74 78
+1827;Assurances;MGEN - Mutuelle Générale de l'Education Nationale;0000 00 36 76;04 67 45 70 65
+1828;;MGEN FILIA;;01 40 47 20 20
+1829;;MGP Groupe;0810 00 01 82;01 55 26 73 46
+1830;;MGP Groupe;;04 91 60 18 66
+1831;;Michelin;0969 39 02 02;01 47 83 20 42
+1832;;MicroConcept;0008 92 05 05;04 78 71 06 21
+1833;;Microsoft;;09 70 01 90 90
+1834;;Miele;;09 74 50 10 00
+1835;;Milan Presse;0811 34 97 09;05 61 76 64 64
+1836;;miniplanes.fr;0826 95 09 00;02 53 35 51 16
+1837;;Minolta France;;04 68 25 24 94
+1838;;mister-auto.com;;04 26 70 70 77
+1839;;mister-auto.com;0892 18 11 81;04 76 60 26 00
+1840;Commerces;Misterfly;;01 70 95 80 00
+1841;Commerces;Mistergooddeal;0008 92 70 22;01 69 79 81 00
+1842;Commerces;Mistergooddeal.com;;01 55 25 70 95
+1843;Assurances;MMA - Mutuelles du Mans Assurances;;01 46 84 10 32
+1844;Assurances;MMA - Mutuelles du Mans Assurances;;02 43 41 59 96
+1845;Assurances;MMA - Mutuelles du Mans Assurances;;02 43 41 69 33
+1846;Assurances;MMA - Mutuelles du Mans Assurances;0008 25 09 60;02 37 88 53 47
+1847;Assurances;MMA - Mutuelles du Mans Assurances;0810 22 32 42;02 40 47 83 09
+1848;Assurances;MMA - Mutuelles du Mans Assurances;;04 68 31 00 64
+1849;Assurances;MMA - Mutuelles du Mans Assurances;;04 68 32 26 88
+1850;;MNH;0008 20 00 45;02 38 90 72 80
+1851;Assurances;MNT - Mutuelle Nationale Territoriale;0008 20 20 12;09 72 72 52 52
+1852;Assurances;MNT - Mutuelle Nationale Territoriale;0820 20 12 02;01 44 83 12 34
+1853;Telecoms;Mobilbox;0000 00 32 49;01 47 94 94 91
+1854;Telecoms;Mobilostore.com;0008 92 68 18;01 53 01 64 03
+1855;;Modz.fr;0008 92 18 68;04 74 68 68 18
+1856;;Mon Aménagement Jardin;0892 06 00 55;03 20 22 14 28
+1857;;Mona-mode.fr;;03 88 18 54 81
+1858;Banques;Monabanq;0810 00 20 01;03 20 28 36 73
+1859;;MonAlbumPhoto.fr - Mon Album Photo;0892 23 00 54;01 80 14 67 45
+1860;;Monbureaudeposte.fr;;09 69 36 00 13
+1861;Assurances;Mondial Assistance;0800 10 31 05;01 53 05 86 00
+1862;Transporteurs;Mondial Relay;0008 92 70 76;05 55 87 27 00
+1863;Transporteurs;Mondial Relay;0008 92 70 76;04 37 25 37 80
+1864;Transporteurs;Mondial Relay;0008 92 70 76;04 99 51 25 50
+1865;Transporteurs;Mondial Relay;0008 92 70 76;01 34 30 26 50
+1866;Transporteurs;Mondial Relay;0008 92 70 76;01 48 07 01 20
+1867;Transporteurs;Mondial Relay;0008 92 70 76;01 64 13 61 50
+1868;Transporteurs;Mondial Relay;0008 92 70 76;04 98 12 99 80
+1869;Transporteurs;Mondial Relay;0008 92 70 76;03 90 57 30 80
+1870;Transporteurs;Mondial Relay;0008 92 70 76;04 75 60 14 30
+1871;Transporteurs;Mondial Relay;0008 92 70 76;04 99 51 25 50
+1872;Transporteurs;Mondial Relay;0008 92 70 76;02 35 12 48 10
+1873;Transporteurs;Mondial Relay;0008 92 70 76;02 28 01 94 70
+1874;Transporteurs;Mondial Relay;0008 92 70 76;03 80 59 67 30
+1875;Transporteurs;Mondial Relay;;09 69 32 23 32
+1876;Assurances;Mondiale Assistance;;02 43 80 20 80
+1877;;Monoprix;;01 78 99 90 00
+1878;;Monoprix;;04 68 25 90 00
+1879;Assurances;Mornay Mutuelle;0825 30 03 22;09 70 80 86 33
+1880;;Motorola;;01 55 69 50 43
+1881;;MPIO / Digitalway;;01 39 43 30 70
+1882;;Mr Bricolage;;05 62 60 24 24
+1883;;mr-bricolage.fr;0892 18 08 91;05 35 00 51 71
+1884;Assurances;MSA - Mutualité Sociale Agricole;;05 55 49 87 00
+1885;Assurances;MSA - Mutualité Sociale Agricole;;04 68 27 06 44
+1886;Assurances;MSA - Mutualité Sociale Agricole;;04 68 45 99 22
+1887;Assurances;MSA - Mutualité Sociale Agricole;;04 68 11 77 11
+1888;Assurances;MSA - Mutualité Sociale Agricole;;05 56 01 83 83
+1889;;MSI;;01 64 76 49 49
+1890;;Multimedialp;0008 91 70 21;04 92 21 21 29
+1891;;Mutaero;0811 88 03 80;05 62 73 69 59
+1892;Assurances;Mutuelle D - O;0820 22 02 02;01 44 64 39 00
+1893;Assurances;Mutuelle de l'Aude;;04 68 31 23 11
+1894;Assurances;Mutuelle de l'Aude;;04 68 71 99 66
+1895;Assurances;Mutuelle de l'Aude;;04 68 94 54 54
+1896;Assurances;Mutuelle de l'Aude;;04 68 71 99 20
+1897;Assurances;Mutuelle de la Société Marseillaise;;04 68 32 00 13
+1898;Assurances;Mutuelle des motards;0825 12 91 29;04 67 04 72 04
+1899;Assurances;Mutuelle Française;0800 18 18 18;09 70 82 83 84
+1900;Assurances;Mutuelle Générale de la Police;;04 68 10 23 60
+1901;Assurances;Mutuelle Korelio PRO BTP;0810 00 60 31;01 40 31 38 88
+1902;Assurances;Mutuelle Nationale des Hospitaliers - MNH;0820 00 45 00;02 38 90 72 80
+1903;Assurances;Mutuelle Nationale Territoriale;0820 20 12 02;01 44 83 12 34
+1904;Assurances;Mutuelle Prévifrance;0008 00 09 08;04 68 71 80 60
+1905;Assurances;Mutuelle Prévifrance;0800 09 08 00;05 61 10 55 10
+1906;Assurances;Mutuelle Sociale Agricole;;05 53 02 67 00
+1907;Assurances;Mutuelle Sociale Agricole;;05 61 10 40 40
+1908;;mypix.com;0811 65 04 64;09 69 32 20 30
+1909;;National Geographic;0008 11 23 22;03 21 13 25 00
+1910;Banques;Natixis Financement;0820 08 77 77;04 91 30 77 77
+1911;Banques;Natixis Financement;0008 20 08 60;09 69 39 32 44
+1912;;Nec - Mitsubishi;;01 55 70 28 70
+1913;;Nescafé;0800 97 07 80;01 60 53 21 00
+1914;;Net Loisirs;0825 62 02 18;03 20 55 81 94
+1915;;Net-Up;0008 92 35 01;04 96 13 28 00
+1916;;Netissime;0826 00 10 02;04 37 43 00 37
+1917;Telecoms;Neuf Cegetel;;01 70 18 60 00
+1918;Telecoms;Neuf Cegetel;;02 23 48 40 01
+1919;Telecoms;Neuf SFR BOX;;Voir SFR BOX
+1920;Telecoms;Neuf Telecom;0811 00 90 09;08 00 95 01 99
+1921;Telecoms;Neuf Telecom;;08 00 95 09 50
+1922;Telecoms;Neuf Telecom;0008 11 00 90;08 00 95 01 99
+1923;Telecoms;Neuf Telecom;0000 00 10 77;01 71 07 07 07
+1924;Telecoms;Neuf Telecom;;08 00 73 74 00
+1925;;Nexilis;0820 90 22 23;04 91 17 70 70
+1926;;Nexway;0899 78 03 24;01 55 17 31 55
+1927;;Nintendo;0892 68 77 55;01 34 35 46 01
+1928;;Nocibé;0008 10 49 49;03 20 71 49 49
+1929;;Nokia Siemens Network;;01 49 15 12 12
+1930;;Nomade Aventure;0825 70 17 02;01 46 33 75 98
+1931;Telecoms;Noos;;01 70 00 70 07
+1932;Telecoms;Noos;;01 72 38 78 70
+1933;Commerces;Norauto;0008 20 85 85;03 20 60 74 74
+1934;Commerces;Norauto;;04 68 90 33 23
+1935;Commerces;Norauto;0240 92 02 55;08 26 27 00 00
+1936;Commerces;Norauto;;04 90 09 88 83
+1937;Commerces;Norauto;;04 78 66 01 00
+1938;;Nostalgie;;01 40 71 40 00
+1939;;Nouveauxproduits.com;0008 92 54 34;09 51 52 27 32
+1940;;Nouvelles Frontières;0892 16 01 80;04 78 44 72 10
+1941;;Nouvelles Frontières;;01 73 03 20 52
+1942;;Nova Senior / Cocoonage;0810 40 04 61;04 66 28 00 07
+1943;;NPY;0008 20 20 87;05 59 05 98 69
+1944;;NRJ;;01 57 05 04 74
+1945;;NRJ;0008 92 70 40;01 40 71 78 56
+1946;;NRJ;0008 92 70 40;01 57 05 04 75
+1947;;NRJ Group;;01 40 71 40 00
+1948;;NRJ Mobile;0008 26 62 02;04 42 46 19 00
+1949;;NRJ12;;01 40 71 40 00
+1950;;Numéricable;;01 77 46 80 00
+1951;;Numéricable;;01 70 01 70 01
+1952;;Numéricable;;01 74 52 05 10
+1953;;Numéricable;0892 68 96 90;01 70 10 55 50
+1954;;OCP Répartition;;04 99 52 96 74
+1955;Voyages;Odalys Evasion;0825 56 25 62;01 58 56 56 56
+1956;Voyages;Odalys Vacances;0825 56 25 62;01 58 56 56 56
+1957;Voyages;Office de Tourisme de Cassis;0892 25 98 92;04 42 01 67 83
+1958;Voyages;Office de Tourisme de Toulouse;0892 18 01 80;05 61 11 02 33
+1959;Voyages;Office du Tourisme et des Congrès de Nice;0892 70 74 07;04 92 14 46 46
+1960;;Oki;;01 46 15 80 00
+1961;;Olympia;0008 92 68 33;01 55 27 10 00
+1962;;Olympique Gymnase Club;0892 70 02 38;04 93 21 25 92
+1963;;Olympique Lyonnais;0008 92 69 69;09 69 36 05 83
+1964;;One Tel;;01 73 50 26 00
+1965;;Oney;0008 25 03 13;02 47 33 62 14
+1966;;Oney;0000 03 96 70;09 69 39 54 05
+1967;;Oney;0008 25 01 44;09 69 39 77 39
+1968;;Oogarden.com;0008 90 71 00;04 37 86 27 75
+1969;;Oogarden.com;0890 71 00 42;04 74 46 41 32
+1970;;Oogarden.com;0890 71 00 42;01 86 65 43 77
+1971;;OPAC;0008 10 71 71;03 85 32 77 85
+1972;;Opéra de Lyon;0826 30 53 25;04 72 00 45 00
+1973;;Opéra National du Rhin;0008 25 84 14;03 88 75 48 01
+1974;Voyages;Opodo;;01 70 98 92 17
+1975;Voyages;Opodo.fr;;01 70 91 75 75
+1976;Telecoms;Orange;;01 57 05 05 91
+1977;Telecoms;Orange;0000 00 07 00;01 56 95 69 45
+1978;Telecoms;Orange;0000 00 39 00;01 41 83 44 07
+1979;Telecoms;Orange;0000 00 39 70;06 07 62 64 64
+1980;Telecoms;Orange;;01 44 44 22 22
+1981;Telecoms;Orange;0000 00 39 00;02 47 85 67 38
+1982;Telecoms;Orange;0000 00 39 70;01 56 95 69 45
+1983;Telecoms;Orange;;09 88 99 50 63
+1984;Telecoms;Orange Auchan;;01 57 05 04 92
+1985;Telecoms;Orange Business;;01 57 05 05 91
+1986;Telecoms;Orange Mobile;;05 53 82 17 69
+1987;;Oreade Conseil;0810 44 74 47;01 53 05 97 24
+1988;Assurances;OREPA Prévoyance;0820 22 02 02;01 44 64 39 00
+1989;;Origin Aude;;04 68 49 11 59
+1990;;Osica;0811 70 20 20;01 69 53 49 69
+1991;;Otio France;0437 43 41 40;08 25 36 83 68
+1992;;Ouest France;0897 04 00 00;02 99 32 60 00
+1993;Voyages;Oui SNCF;0000 00 36 35;01 73 20 98 51
+1994;;Outiror;0892 69 05 00;09 69 32 00 09
+1995;Telecoms;OVH;0008 99 70 17;03 20 83 08 66
+1996;Telecoms;OVH;;09 72 10 10 10
+1997;Telecoms;OVH;;09 72 10 20 10
+1998;Telecoms;OVH;;09 74 53 42 43
+1999;Telecoms;OVH Téléphonie;;09 72 10 10 10
+2000;Commerces;Oxybul;;01 41 44 51 52
+2001;Commerces;Oxybul éveil et jeux;0892 35 07 77;01 30 61 84 84
+2002;;Ozone - Ozone.net;;09 73 01 10 00
+2003;Assurances;Pacific Assistance;;01 45 26 47 71
+2004;;Packard Bell;;01 55 23 72 00
+2005;;Packard Bell;;02 41 36 47 00
+2006;;Packard Bell;;02 41 36 45 11
+2007;;Pages Jaunes;0810 30 01 18;01 46 23 40 50
+2008;;Pages Jaunes;0008 10 10 10;01 46 23 30 00
+2009;;Palais des Sports;0008 25 03 80;01 48 28 40 10
+2010;;Panasonic;0008 92 35 05;01 55 93 66 00
+2011;;Panda Antivirus;0892 46 11 61;01 46 84 20 00
+2012;;Parc Asterix;0800 97 20 22;03 44 62 31 31
+2013;;Paris-Normandie;;02 35 14 56 56
+2014;;Parti Socialiste;;04 68 27 26 44
+2015;Voyages;partirenvoyages.com;0825 13 99 00;01 49 24 24 02
+2016;Voyages;Partirpascher.com;0826 10 06 00;01 53 14 60 00
+2017;;Paru Vendu;0892 69 19 19;04 88 57 20 47
+2018;;Passat Outillage Griffe de Jardin;;01 57 05 05 74
+2019;;PC30;0008 26 10 24;01 72 03 01 69
+2020;;PCSoft;;04 67 03 20 32
+2021;;Peal.fr;0008 90 71 10;03 88 58 02 05
+2022;;Père Noël;0008 92 88 10;04 77 92 39 20
+2023;;Père Noël;0008 92 88 10;04 77 92 39 23
+2024;;Père Noël;0008 92 88 10;04 77 92 39 25
+2025;;Père Noël;;01 41 86 30 15
+2026;;Périmètre;0008 25 04 08;01 69 21 38 91
+2027;;Perimetre;0008 25 04 08;01 69 21 38 91
+2028;;persomobiles.fr;0000 09 94 30;01 72 75 22 11
+2029;;Pharmacie Paris;;01 45 62 02 41
+2030;;Philips;0008 05 02 55;01 57 32 40 51
+2031;;Philotechnique;0821 23 04 40;01 42 42 35 85
+2032;;PhoneAndPhone;;01 48 06 11 68
+2033;;Photoways;0892 68 72 69;02 76 11 07 61
+2034;;Photoweb.fr;0826 46 74 73;09 69 32 05 36
+2035;;PICARD Surgelés;0008 20 16 00;03 22 19 25 05
+2036;;Piecesvoitures.com;0899 19 80 11;04 76 49 47 47
+2037;Voyages;Pierre et Vacances;0008 25 04 06;01 58 21 55 50
+2038;Voyages;Pierre et Vacances;;05 59 48 83 00
+2039;;Pink TV;;01 75 00 19 49
+2040;;Piscine Iceo Calais;;03 21 19 56 56
+2041;;Pixmania;;01 45 01 35 35
+2042;;Pixmania;;09 69 32 10 20
+2043;;Pizza Hut Paris;;01 42 33 71 43
+2044;;Pizza Hut Paris;;01 40 30 16 16
+2045;;Pizza Hut Paris;;01 42 23 09 09
+2046;;Pizza Hut Paris;;01 42 26 30 30
+2047;;Pizza Hut Paris;;01 42 24 12 12
+2048;;Pizza Hut Paris;;01 43 06 90 90
+2049;;Pizza Hut Paris;;01 40 60 15 10
+2050;;Pizza Hut Paris;;01 40 44 87 88
+2051;;Pizza Hut Paris;;01 40 44 40 40
+2052;;Pizza Hut Paris;;01 45 80 08 08
+2053;;Pizza Hut Paris;;01 43 44 91 11
+2054;;Pizza Hut Paris;;01 40 05 07 07
+2055;;Pizza Hut Paris;;01 42 80 50 50
+2056;;Pizza Hut Paris;;01 44 18 09 99
+2057;;Pizza Hut Paris;;01 40 27 83 27
+2058;;Pizza Hut Province;;03 88 31 31 10
+2059;;Pizza Hut Province;;03 20 57 80 80
+2060;;Pizza Hut Province;;03 83 35 73 73
+2061;;Pizza Hut Province;;02 41 27 02 00
+2062;;Pizza Hut Province;;02 38 80 27 70
+2063;;Pizza Hut Province;;02 40 71 89 75
+2064;;Pizza Hut Province;;02 47 28 64 17
+2065;;Pizza Hut Province;;02 47 28 64 17
+2066;;Pizza Hut Province;;05 61 71 24 30
+2067;;Pizza Hut Province;;03 80 76 94 94
+2068;;Pizza Hut Province;;02 31 52 23 29
+2069;;Pizza Hut Province;;02 31 50 03 03
+2070;;Pizza Hut Province;;03 89 66 57 57
+2071;;Pizza Hut Province;;04 78 89 31 31
+2072;;Pizza Hut Province;;04 78 85 56 56
+2073;;Pizza Hut Province;;04 72 14 04 04
+2074;;Pizza Hut Province;;02 35 98 28 28
+2075;;Pizza Hut Région Parisienne;;01 60 17 24 41
+2076;;Pizza Hut Région Parisienne;;01 30 66 72 82
+2077;;Pizza Hut Région Parisienne;;01 30 53 41 01
+2078;;Pizza Hut Région Parisienne;;01 60 77 31 41
+2079;;Pizza Hut Région Parisienne;;01 69 86 90 70
+2080;;Pizza Hut Région Parisienne;;01 64 47 11 65
+2081;;Pizza Hut Région Parisienne;;01 46 04 40 00
+2082;;Pizza Hut Région Parisienne;;01 46 45 28 28
+2083;;Pizza Hut Région Parisienne;;01 47 38 22 10
+2084;;Pizza Hut Région Parisienne;;01 46 02 44 00
+2085;;Pizza Hut Région Parisienne;;01 47 85 30 30
+2086;;Pizza Hut Région Parisienne;;01 46 23 01 01
+2087;;Pizza Hut Région Parisienne;;01 47 89 12 22
+2088;;Pizza Hut Région Parisienne;;01 56 83 01 04
+2089;;Pizza Hut Région Parisienne;;01 48 55 81 43
+2090;;Pizza Hut Région Parisienne;;01 48 37 29 29
+2091;;Pizza Hut Région Parisienne;;01 48 99 66 77
+2092;;Pizza Hut Région Parisienne;;01 49 76 07 07
+2093;;Pizza Hut Région Parisienne;;01 48 93 22 22
+2094;;Pizza Hut Région Parisienne;;01 47 06 32 32
+2095;;Pizza Hut Région Parisienne;;01 45 94 09 82
+2096;;Pizza Hut Région Parisienne;;01 30 76 02 99
+2097;;Pizza Hut Région Parisienne;;01 34 21 82 11
+2098;;Pizza Hut Région Parisienne;;01 34 12 44 22
+2099;;Plastic Omnium;0008 00 15 23;03 20 96 59 13
+2100;;Playmobil Fun Parc;;01 49 84 94 44
+2101;;Plusdemags.com - ADL Partner;0892 23 48 70;01 41 58 70 00
+2102;;PMU;0820 20 13 00;01 58 73 13 00
+2103;;Polaroid;;01 56 38 36 00
+2104;Administrations;Pôle Emploi;0000 00 39 49;02 98 05 63 74
+2105;Administrations;Pôle Emploi;;02 35 13 01 31
+2106;Administrations;Pôle Emploi;0000 00 39 49;02 98 41 35 53
+2107;Administrations;Pôle Emploi;0000 00 39 49;02 98 93 38 48
+2108;Administrations;Pôle Emploi;0000 00 39 49;02 96 87 65 51
+2109;Administrations;Pôle Emploi;0000 00 39 49;02 99 86 15 07
+2110;Administrations;Pôle Emploi;0000 00 39 49;02 99 85 71 82
+2111;Administrations;Pôle Emploi;0000 00 39 49;02 23 46 12 21
+2112;Administrations;Pôle Emploi;0000 00 39 49;02 96 75 00 54
+2113;Administrations;Pôle Emploi;0000 00 39 49;02 99 40 69 47
+2114;Administrations;Pôle Emploi;0000 00 39 49;02 97 54 77 17
+2115;Administrations;Pôle Emploi;0000 00 39 49;02 99 75 49 60
+2116;Administrations;Pôle Emploi;0000 00 39 49;02 96 40 63 37
+2117;Administrations;Pôle Emploi;0000 00 39 49;02 96 46 66 11
+2118;Administrations;Pôle Emploi;0000 00 39 49;02 97 87 27 02
+2119;Administrations;Pôle Emploi;0000 00 39 49;02 98 62 86 67
+2120;Administrations;Pôle Emploi;0000 00 39 49;02 97 25 90 14
+2121;Administrations;Pôle Emploi;0000 00 39 49;02 98 10 34 97
+2122;Administrations;Pôle Emploi;0000 00 39 49;02 99 72 81 70
+2123;Administrations;Pôle Emploi;0000 00 39 49;03 80 29 69 43
+2124;Administrations;Pôle Emploi;0000 00 39 95;01 47 80 71 60
+2125;Administrations;Pôle Emploi;0000 00 39 49;05 57 81 72 64
+2126;Administrations;Pôle Emploi;0000 00 39 49;01 41 86 21 61
+2127;Administrations;Pôle Emploi;0000 00 39 49;04 91 83 18 33
+2128;Administrations;Pôle Emploi;0000 00 39 49;02 62 25 12 85
+2129;Administrations;Pôle Emploi;0000 00 39 49;02 62 28 49 89
+2130;Administrations;Pôle Emploi;0000 00 39 49;02 62 45 39 15
+2131;Administrations;Pôle Emploi;0000 00 39 49;02 62 50 08 31
+2132;Administrations;Pôle Emploi;0000 00 39 49;02 62 53 23 28
+2133;Administrations;Pôle Emploi;0000 00 39 49;02 62 55 45 45
+2134;Administrations;Pôle Emploi;0000 00 39 49;02 62 57 98 79
+2135;Administrations;Pôle Emploi;0000 00 39 49;02 62 94 80 64
+2136;Administrations;Pôle Emploi;0000 00 39 49;05 90 23 99 53
+2137;Administrations;Pôle Emploi;0000 00 39 49;05 90 26 56 98
+2138;Administrations;Pôle Emploi;0000 00 39 49;05 90 85 17 90
+2139;Administrations;Pôle Emploi;0000 00 39 49;05 90 87 63 52
+2140;Administrations;Pôle Emploi;0000 00 39 49;05 90 97 68 14
+2141;Administrations;Pôle Emploi;0000 00 39 49;05 90 99 98 28
+2142;Administrations;Pôle Emploi;0000 00 39 49;05 94 34 35 18
+2143;Administrations;Pôle Emploi;0000 00 39 49;05 96 58 15 47
+2144;Administrations;Pôle Emploi;0000 00 39 49;05 96 68 72 42
+2145;Administrations;Pôle Emploi;0000 00 39 49;05 96 70 76 80
+2146;Administrations;Pôle Emploi;0000 00 39 49;05 96 78 33 81
+2147;Administrations;Pôle Emploi;0000 00 39 49;04 72 86 06 20
+2148;Administrations;Pôle Emploi;0000 00 39 49;05 49 38 27 56
+2149;Administrations;Pôle Emploi;0000 00 39 49;01 53 02 25 95
+2150;Administrations;Pôle Emploi;0000 00 39 49;04 74 11 17 90
+2151;Administrations;Pôle Emploi;0000 00 39 49;04 70 30 19 90
+2152;Administrations;Pôle Emploi;0000 00 39 49;02 97 64 06 43
+2153;Santé;Polyclinique Bordeaux Rive Droite;0826 30 04 84;05 56 94 47 57
+2154;Santé;Polyclinique Bordeaux Rive Droite;0826 30 04 84;05 56 94 47 57
+2155;Santé;Polyclinique Bordeaux Rive Droite;0826 30 04 84;05 56 38 28 38
+2156;Santé;Polyclinique Bordeaux Rive Droite;0826 30 04 84;05 57 80 84 72
+2157;Santé;Polyclinique Bordeaux Rive Droite;0826 30 04 84;05 56 94 47 37
+2158;Santé;Polyclinique d'Oxford;0826 20 02 10;04 92 98 40 27
+2159;Santé;Polyclinique du Beaujolais - Capio;0811 65 76 58;04 74 60 49 80
+2160;Santé;Polyclinique du Grand Sud;0008 26 30 33;04 66 04 33 04
+2161;Santé;Polyclinique Gentilly;0826 66 66 56;03 83 95 54 13
+2162;Santé;Polyclinique Les Fleurs;0826 30 88 00;04 94 06 98 73
+2163;Santé;Polyclinique Les Fleurs;0826 30 88 00;04 94 06 98 33
+2164;Santé;Polyclinique Montréal;0008 26 30 53;04 68 11 53 58
+2165;Santé;Polyclinique Montréal;0008 26 30 53;04 68 11 18 60
+2166;Santé;Polyclinique Notre Dame;0008 26 39 99;04 78 54 75 19
+2167;;Pompes Funèbres Générales;;04 68 31 01 24
+2168;;Portakabin;0008 10 38 38;03 20 16 50 00
+2169;;Poweo;0811 10 17 17;09 71 10 17 17
+2170;;Praticomfort;0825 05 03 33;04 94 51 74 74
+2171;Administrations;Préfecture de Nanterre;0821 80 30 92;01 40 97 20 00
+2172;Administrations;Prefecture de Rennes;0008 21 80 30;02 99 02 10 35
+2173;Administrations;Préfecture du Rhône;0008 21 80 30;04 72 61 60 60
+2174;Administrations;Préfecture Pyrénées-Orientales;;04 68 51 66 66
+2175;Administrations;Présence Assistance Tourisme;0825 00 76 26;01 47 37 70 60
+2176;;Prestashop;;01 40 18 30 04
+2177;;Prestashop;0008 11 69 60;01 40 18 30 04
+2178;;Previade;0008 92 88 10;04 77 92 39 27
+2179;;Priceminister;;01 70 09 41 50
+2180;;Primagaz;0821 23 52 35;03 83 59 07 59
+2181;;Printemps Listes;0008 92 68 68;01 42 82 56 13
+2182;;Prisma Presse;0008 11 23 22;03 21 13 25 00
+2183;;Prismashop - Prisma Media;0826 96 39 64;01 73 05 45 45
+2184;;Privilège;0825 80 03 79;04 98 00 29 04
+2185;;PrixToutCompris.com;0892 68 92 66;01 64 67 78 23
+2186;;Pro BTP Vacances;0810 60 05 08;01 57 63 66 65
+2187;;Progress System;0008 25 38 20;04 76 18 06 05
+2188;;Promologis;0008 20 85 85;09 74 50 50 59
+2189;Voyages;Promovacances;0008 99 65 48;01 70 98 92 15
+2190;Voyages;Promovacances;0899 65 48 50;01 70 36 50 00
+2191;Voyages;Promovacances;0899 65 48 50;01 70 36 47 70
+2192;Voyages;Promovacances;0899 65 48 50;01 73 10 00 09
+2193;Voyages;Promovacances;;01 72 63 70 07
+2194;;Protegys;0826 10 70 00;01 73 01 53 59
+2195;Banques;Protegys Courtage;0008 26 10 70;01 42 94 50 00
+2196;;Proxiserve;0811 01 07 13;04 91 80 13 73
+2197;;Proxiserve;0008 21 08 27;05 64 92 02 20
+2198;;PSG - Paris Saint Germain;0000 00 32 75;09 69 32 21 62
+2199;;PSG - Paris Saint-Germain;;09 70 55 75 75
+2200;;Pull And Bear;0800 91 65 61;01 55 91 90 85
+2201;;Punch-et-cocktail.com;;03 28 41 30 00
+2202;;Puy Du Fou;;02 51 54 09 88
+2203;;Qama;0820 82 00 30;02 43 30 41 41
+2204;;Qualigaz;0008 26 62 86;03 20 55 50 00
+2205;;Qualigaz;0008 26 62 86;01 41 61 37 23
+2206;;Quelle;;02 38 80 50 50
+2207;;Quelle;0008 92 70 10;02 38 80 30 50
+2208;;Questions pour 1 champion;;01 41 43 98 40
+2209;;Quincaillerie Qama;;02 43 30 26 10
+2210;;Radio France;;01 56 40 22 22
+2211;;Radio Totem;0825 39 83 98;05 65 71 33 30
+2212;;Radiospares;;03 44 10 16 16
+2213;;Radiospares;0825 03 40 34;03 44 10 57 10
+2214;;Raja;0820 30 69 92;01 48 17 30 00
+2215;;Rakuten;;09 70 75 64 60
+2216;Voyages;RATP;;01 58 78 20 20
+2217;Voyages;RATP;;01 43 46 14 14
+2218;;Redcoon;;01 48 63 96 21
+2219;;Réflectiv;0008 25 80 58;01 43 99 00 22
+2220;Transporteurs;Relais Colis;0008 11 01 00;09 70 25 22 31
+2221;Transporteurs;Relais Colis - SOGEP;0008 11 01 00;01 45 69 45 45
+2222;;Renault Assistance;0008 00 05 15;01 39 24 24 24
+2223;;Rent a car;;09 70 14 99 62
+2224;;Réseau Gay;;01 73 00 70 00
+2225;;Résidence MGM;;01 57 05 04 88
+2226;;Résinence;0820 20 09 27;02 38 87 46 72
+2227;;Resto In;0811 65 96 59;01 70 94 67 67
+2228;;Retraites;0821 10 66 77;09 71 10 39 60
+2229;;RFI Bourges;0008 11 01 30;02 48 23 15 60
+2230;Voyages;Rhônexpress;0826 00 17 18;04 75 25 53 58
+2231;;RMC;0000 00 32 16;01 71 19 14 11
+2232;;Robopolis;;04 27 02 17 09
+2233;Voyages;Royal Air Maroc;0820 82 18 21;01 44 94 13 40
+2234;Voyages;Royal Caribbean;0008 20 20 30;01 46 57 77 77
+2235;;royaledeco.com - Royale Deco;0825 00 10 40;01 47 11 08 47
+2236;;rs-online.com - RS Components;0825 03 40 34;03 44 10 15 00
+2237;;rs-particuliers.com;0825 03 40 34;03 44 10 15 00
+2238;Administrations;RSI - Régime Social des Indépendants;0008 20 20 70;02 99 54 68 00
+2239;Administrations;RSI - Régime Social des Indépendants;;01 44 37 51 00
+2240;Administrations;RSI - Régime Social des Indépendants;0820 82 55 13;04 67 13 77 77
+2241;Administrations;RSI - Régime Social des Indépendants;;01 77 93 00 00
+2242;Administrations;RSI - Régime Social des Indépendants;;05 94 29 72 00
+2243;Administrations;RSI - Régime Social des Indépendants;;05 56 43 47 00
+2244;Administrations;RSI - Régime Social des Indépendants;;03 80 77 53 00
+2245;Administrations;RSI - Régime Social des Indépendants;;03 81 51 93 00
+2246;Administrations;RSI - Régime Social des Indépendants;;01 53 33 56 56
+2247;Administrations;RSI - Régime Social des Indépendants;;02 31 38 30 04
+2248;Administrations;RSI - Régime Social des Indépendants;;02 31 85 83 57
+2249;Administrations;RSI - Régime Social des Indépendants;;01 43 18 58 58
+2250;Administrations;RSI - Régime Social des Indépendants;0811 01 08 25;04 13 59 40 00
+2251;Administrations;RSI - Régime Social des Indépendants;0811 46 78 90;04 91 82 55 00
+2252;Administrations;RSI - Régime Social des Indépendants;;05 61 61 68 68
+2253;Administrations;RSI - Régime Social des Indépendants;0008 11 01 08;04 76 63 63 63
+2254;Administrations;RSI - Régime Social des Indépendants;0811 01 08 02;03 88 33 88 73
+2255;Administrations;RSI - Régime Social des Indépendants;0811 46 78 01;03 83 17 47 00
+2256;Administrations;RSI - Régime Social des Indépendants;;05 45 69 71 29
+2257;Administrations;RSI - Régime Social des Indépendants;;05 49 32 89 37
+2258;Administrations;RSI - Régime Social des Indépendants;;02 31 85 81 42
+2259;;RTL;0000 00 32 10;01 41 86 21 49
+2260;;RTL;;01 41 86 42 32
+2261;;Rue du Commerce - rueducommerce.fr;;01 72 93 12 90
+2262;;Rue du Commerce - rueducommerce.fr;;01 72 93 14 00
+2263;;Rue du Commerce - rueducommerce.fr;;01 41 66 18 00
+2264;;Rue du Commerce - rueducommerce.fr;0008 99 56 20;01 84 13 04 06
+2265;;rugbyshop.com - Rugby Shop;0892 25 92 00;05 34 27 32 73
+2266;;Rumbo.fr;0899 25 00 22;09 02 12 39 99
+2267;Voyages;Ryanair;0008 92 23 23;01 90 17 01 00
+2268;Voyages;Ryanair;0008 92 56 21;01 80 14 44 53
+2269;;S.C.S Systèmes Communication Sécurité;0892 35 04 90;02 51 61 61 39
+2270;Santé;Sa Clinique Des Chandiots;0008 26 39 99;04 73 23 62 00
+2271;;Samsung;0008 25 08 65;01 48 63 00 00
+2272;;Samsung Electronics France;;09 69 32 21 14
+2273;;SANEF Autoroutes;;09 70 80 87 09
+2274;;Sanofi Aventis;;01 57 05 04 34
+2275;;Sarenza;0008 92 68 52;01 71 25 00 56
+2276;;Sarvi;0820 77 27 84;01 43 98 77 00
+2277;;Satelec Etec;0820 20 25 30;02 40 59 81 81
+2278;;Satelec Etec;0820 20 20 47;02 33 48 61 39
+2279;;Satelec Etec;0008 20 20 25;02 33 48 61 39
+2280;;Satelec Etec;0008 20 20 25;02 33 48 61 39
+2281;;Satelec Etec;0008 20 20 25;02 33 48 61 39
+2282;;Saudi Airlines;0820 20 05 05;09 20 00 37 77
+2283;;SAUR;0008 11 46 03;02 99 85 18 85
+2284;;SAUR;;02 14 37 40 00
+2285;;SAUR;;02 78 51 80 00
+2286;;SAUR Auray;0811 46 03 11;02 56 56 20 00
+2287;Transporteurs;SAV Coliposte;;0141244460 à 70
+2288;;Saveur Bière;0800 00 08 88;03 20 73 47 76
+2289;;SBE;0008 92 35 01;03 21 10 10 21
+2290;;Schneider Electric;0825 01 29 99;04 76 57 60 60
+2291;;Scholtes;0825 05 44 44;01 45 32 53 82
+2292;;scoopgsm.com - Scoop GSM;0892 46 44 63;04 82 53 01 41
+2293;;ScoreGame;0008 25 10 10;01 49 46 33 00
+2294;;SCS Sentinel;0892 35 01 85;02 51 61 61 39
+2295;;Sct Telecom;0008 92 02 02;01 49 98 01 16
+2296;;SDEI;0810 42 64 26;01 58 81 40 00
+2297;Automobile;Seat;0825 07 09 01;03 23 73 80 80
+2298;Automobile;Seat;0825 07 09 01;03 23 73 80 20
+2299;;Securitas Direct SAS;0008 25 80 10;01 41 87 87 00
+2300;;Sécurité Sociale;0820 90 42 03;05 63 48 70 06
+2301;;Sedao;0892 16 52 65;01 48 68 88 00
+2302;;Seeric;0008 99 70 10;04 77 83 01 83
+2303;;SEH hôtels;0826 10 39 09;01 70 23 81 63
+2304;;Sélection du Reader's Digest;0008 92 70 70;01 82 88 11 02
+2305;;Selectronic;;09 70 82 01 66
+2306;;Sellsy;0811 03 38 88;05 47 74 46 28
+2307;;Serca;;09 80 98 00 08
+2308;;Service Social;;04 76 22 95 40
+2309;;Servitech;0008 99 70 10;01 40 05 23 70
+2310;;Sextant SI;0008 20 20 88;04 98 11 19 10
+2311;Telecoms;SFR;0610 00 19 00;05 49 49 14 16
+2312;Telecoms;SFR;;01 41 86 26 03
+2313;Telecoms;SFR;;01 41 86 30 18
+2314;Telecoms;SFR;;01 58 14 33 74
+2315;Telecoms;SFR;;01 71 07 07 07
+2316;Telecoms;SFR;0610 00 19 00;05 49 49 14 16
+2317;Telecoms;SFR;0000 00 10 23;06 10 00 19 00
+2318;Telecoms;SFR;;05 55 29 03 03
+2319;Telecoms;SFR;0008 21 36 46;01 30 13 10 57
+2320;Telecoms;SFR;;09 74 76 87 61
+2321;Telecoms;SFR Box;;04 26 70 02 38
+2322;Telecoms;SFR Box;0000 00 10 23;05 46 55 13 45
+2323;Telecoms;SFR Box;0000 00 10 23;02 23 48 40 50
+2324;Telecoms;SFR Mobile;0000 00 09 00;06 10 00 10 23
+2325;Telecoms;SFR Mobile;0000 00 10 23;06 10 00 10 23
+2326;Telecoms;SFR ODR - Offre de Remboursement;0008 21 36 46;01 30 13 92 00
+2327;Telecoms;SFR ODR - Offre de Remboursement;0008 21 36 46;01 30 13 00 78
+2328;Telecoms;SFR ODR - Offre de Remboursement;0821 36 46 56;01 30 13 17 26
+2329;;Showroom Privé - Showroomprive.com;0811 56 08 50;01 49 46 05 67
+2330;;Showroom Privé - Showroomprive.com;;01 85 76 00 00
+2331;;Siemens;0892 69 81 10;01 49 65 70 00
+2332;;Siemens BenQ;0899 70 01 85;01 56 38 42 00
+2333;;Simpleo;0008 05 30 50;01 47 09 47 09
+2334;;Simplicime;;01 47 09 47 09
+2335;;Simplicitel 3299;;01 79 75 00 67
+2336;;Singapore Airlines;0821 23 03 80;01 47 27 32 44
+2337;;SIPS Atos;0008 11 10 70;02 54 44 70 33
+2338;;Sixt;;04 93 21 48 85
+2339;;Sixt;;01 39 65 10 11
+2340;;Skynet France;0008 25 10 76;01 41 66 28 28
+2341;;Skyrock;;01 44 88 82 53
+2342;;slc35.com;0892 70 76 57;02 23 27 65 99
+2343;;SMAM;0810 61 76 17;05 46 45 04 04
+2344;;Smartbox;0820 82 10 92;01 42 22 38 04
+2345;;Smartbox;;01 70 84 01 00
+2346;;Smartbox;;09 69 32 37 33
+2347;Assurances;Smeno;;08 05 40 00 12
+2348;Assurances;Smeno;;09 72 67 60 00
+2349;;SMI;0820 82 07 10;04 78 03 92 01
+2350;Voyages;SNCF;;01 41 86 92 71
+2351;Voyages;SNCF;;04 75 25 05 81
+2352;Voyages;SNCF;;01 41 86 24 13
+2353;Voyages;SNCF;;01 64 42 71 06
+2354;Voyages;SNCF;;09 80 98 36 35
+2355;Voyages;SNCF;0000 00 36 35;01 41 86 92 99
+2356;Voyages;SNCF - Grand Voyageurs;0892 33 03 30;01 40 18 88 72
+2357;Voyages;SNCM;0000 00 32 60;04 91 56 32 00
+2358;Voyages;SNCM;;04 91 56 80 20
+2359;;Sobadel;;04 95 58 05 85
+2360;;Société Des Eaux de l'Essonne;0008 10 39 13;09 77 40 94 30
+2361;Banques;Société Générale;0000 00 39 33;01 76 77 39 33
+2362;Banques;Société Générale;;01 57 05 02 28
+2363;Banques;Société Générale;0000 00 39 33;01 60 24 40 55
+2364;Banques;Société Générale;;01 42 14 20 00
+2365;Banques;Société Générale;;04 66 49 11 84
+2366;Banques;Société Générale;0000 00 39 33;01 42 14 20 02
+2367;;Socrate;0820 86 69 67;01 60 14 35 34
+2368;Banques;Sofemo Banque;;03 88 14 70 70
+2369;Banques;Sofica Crédits;0008 20 20 79;04 91 33 31 14
+2370;Banques;Sofinco;0825 00 20 04;01 49 72 79 00
+2371;Banques;Sofinco;0825 00 20 04;04 26 21 19 09
+2372;;Sogarep;0008 11 70 02;09 70 80 81 81
+2373;;SOGASUD - Société des Gaz du Sud;0810 08 02 77;05 34 40 38 00
+2374;;Sogessur;;01 41 39 55 09
+2375;;Sogessur;;01 56 88 96 56
+2376;;Sogessur;;09 69 36 88 36
+2377;;SOGESUR;;09 69 32 99 69
+2378;;Solea Vacances;0826 28 20 00;01 49 29 60 50
+2379;;Solicéo;;02 38 81 26 44
+2380;;Somewhere;;09 69 39 54 69
+2381;;Somfy;;09 69 32 03 00
+2382;;Somfy;;04 50 96 71 00
+2383;;Sony;0820 88 55 54;01 49 78 78 40
+2384;;Sony;0825 33 33 00;01 57 32 36 02
+2385;;Sony;;01 70 70 07 78
+2386;;Sortir plus - Humanis;0008 10 81 80;01 58 82 63 98
+2387;;SOS Médecin;0825 00 50 04;04 93 90 49 22
+2388;;Sosh;;00 00 00 39 76
+2389;;SP Santé;0820 20 03 38;01 44 53 14 73
+2390;;SPA - Société Protectrice des Animaux;0820 82 08 96;04 91 45 63 54
+2391;;Spb Assurance BNP Sécurité;;09 70 80 82 91
+2392;;Spb Assurance SFR;;09 70 80 88 73
+2393;;sport-decouverte.com;0892 23 03 63;09 70 80 90 33
+2394;;SquareEnix;0008 25 12 00;01 71 23 02 59
+2395;;SRR;;02 62 48 19 70
+2396;;St Gobain;;01 57 05 03 75
+2397;;Stanley Solutions de Sécurité;0825 00 06 38;04 26 19 13 13
+2398;;StarPass;;01 53 36 24 24
+2399;;STAVE;0008 99 70 43;03 88 20 43 30
+2400;;Stokomani;0008 25 89 32;05 34 55 65 00
+2401;;Strong dépannage;0826 02 99 28;04 50 97 99 00
+2402;;Sudcompteur;;05 63 60 42 27
+2403;;Suez;;09 77 40 84 08
+2404;;Suravenir;;01 41 21 06 06
+2405;;Surcouf;;01 53 33 21 18
+2406;;Sushi Shop;0826 82 68 26;01 45 25 67 00
+2407;;Sushi Shop;0826 82 66 28;04 42 22 53 92
+2408;;Sushi West;0826 88 26 88;01 53 21 07 17
+2409;;Sushi West;0826 88 26 88;01 72 63 38 10
+2410;;Sveltissime.com;0811 60 00 80;04 78 81 63 25
+2411;Voyages;Swissair;;49 32 98 39 25
+2412;Voyages;Swissair;;04 72 22 75 75
+2413;Assurances;SwissLife;;01 40 82 22 91
+2414;Assurances;SwissLife;;09 74 75 09 00
+2415;Assurances;SwissLife;0825 31 73 17;01 46 17 38 38
+2416;;Symantec;;01 73 01 84 99
+2417;;Symio;0000 00 10 19;09 74 75 80 00
+2418;;Syn Energy;0826 30 39 09;01 39 90 57 95
+2419;;Sytadin;0811 44 48 54;08 00 10 02 00
+2420;;Tahiti Sports;;04 68 49 77 46
+2421;;Take Two;;01 34 30 87 89
+2422;Voyages;TAP Portugal;0820 31 93 20;01 44 62 84 73
+2423;Voyages;TAP Portugal;0820 31 93 20;01 45 08 70 00
+2424;Transporteurs;TAT Express;;01 72 36 51 04
+2425;Transporteurs;TAT Express;0825 88 68 87;04 72 47 49 40
+2426;;Tati;0892 68 08 60;01 55 29 50 00
+2427;;Tavulesprix.com;0008 92 14 15;01 43 03 93 77
+2428;Voyages;Taxis Bleus Paris;0008 25 16 10;01 47 39 47 39
+2429;Voyages;Taxis G7;0000 00 36 07;01 57 05 05 09
+2430;Voyages;Taxis G7;0000 00 36 07;01 79 75 79 87
+2431;;Tchip Coiffure;0008 25 85 90;03 20 15 97 52
+2432;;TeamViewer;;09 75 18 01 38
+2433;;Techdata;0825 84 68 56;01 64 77 54 02
+2434;;TED - Transport En Département;0008 20 20 54;03 83 94 54 54
+2435;;Tektvshop;0826 02 11 35;02 59 56 85 67
+2436;;Télé 7 Jours;;02 77 63 11 11
+2437;;Télé Loisirs;0008 25 04 99;03 21 14 65 43
+2438;;Télé Loisirs;0826 96 39 64;01 44 15 30 00
+2439;;Télé2;;08 00 04 32 10
+2440;;Télé2 Mobile;;01 71 08 71 13
+2441;;TéléCable Sat Hebdo;;01 84 02 99 00
+2442;;telecommande-express.com;0899 70 03 09;06 16 96 24 54
+2443;;Temps L - tempsl.fr;0892 46 14 61;09 77 40 25 66
+2444;;Tempsl Domoti;0892 46 14 61;03 20 13 35 16
+2445;;Teraillon;0826 88 17 89;01 30 15 41 50
+2446;;Terre d'Aventure;0825 70 08 25;01 53 73 76 76
+2447;;TF1;;01 41 41 12 34
+2448;;TF1;;01 41 86 30 13
+2449;;TF1;;01 46 84 10 15
+2450;;TF1;;01 46 84 10 63
+2451;;TF1;0892 01 90 19;09 72 72 00 12
+2452;;TF1;0892 01 90 19;01 72 77 72 77
+2453;;TF1;;01 41 86 30 12
+2454;;TF6;;01 55 62 66 66
+2455;;Thalazur;0825 82 70 94;04 94 29 33 00
+2456;;The Phone House;0825 07 80 00;01 55 49 50 00
+2457;;The Phone House;0899 23 82 99;04 76 23 46 70
+2458;Voyages;Thomas Cook;;01 41 86 21 56
+2459;Voyages;Thomas Cook;;01 76 77 73 10
+2460;;Thomas Dépannage;0008 92 70 71;02 47 41 01 60
+2461;;Thomson;0008 99 56 46;05 63 21 53 74
+2462;;Thyssenkrupp Ascenseurs;0008 10 24 00;01 60 37 53 67
+2463;;Thyssenkrupp Ascenseurs;;02 41 33 31 00
+2464;;Thyssenkrupp Ascenseurs;;01 56 74 17 00
+2465;;Thyssenkrupp Ascenseurs;;05 96 50 58 70
+2466;;Thyssenkrupp Ascenseurs;;04 90 84 09 30
+2467;;Thyssenkrupp Ascenseurs;;05 59 70 32 82
+2468;;Thyssenkrupp Ascenseurs;;03 91 90 03 91
+2469;;Thyssenkrupp Ascenseurs;;02 31 29 51 51
+2470;;Thyssenkrupp Ascenseurs;;02 33 88 60 00
+2471;;Thyssenkrupp Ascenseurs;;03 44 23 21 11
+2472;;Thyssenkrupp Ascenseurs;;04 94 52 53 60
+2473;;Thyssenkrupp Ascenseurs;;02 35 53 30 40
+2474;;Thyssenkrupp Ascenseurs;;03 28 33 03 03
+2475;;Thyssenkrupp Ascenseurs;;05 55 30 13 40
+2476;;Thyssenkrupp Ascenseurs;;04 72 65 37 50
+2477;;Thyssenkrupp Ascenseurs;;04 91 06 11 56
+2478;;Thyssenkrupp Ascenseurs;;03 87 57 82 25
+2479;;Thyssenkrupp Ascenseurs;;04 67 27 15 21
+2480;;Thyssenkrupp Ascenseurs;;03 89 63 69 51
+2481;;Thyssenkrupp Ascenseurs;;02 28 00 90 50
+2482;;Thyssenkrupp Ascenseurs;;02 38 21 81 15
+2483;;Thyssenkrupp Ascenseurs;;01 48 01 68 56
+2484;;Thyssenkrupp Ascenseurs;;04 68 61 54 55
+2485;;Thyssenkrupp Ascenseurs;;02 99 26 19 20
+2486;;Thyssenkrupp Ascenseurs;;02 96 33 67 51
+2487;;Thyssenkrupp Ascenseurs;;04 92 12 33 33
+2488;;Thyssenkrupp Ascenseurs;;05 62 87 89 90
+2489;;Thyssenkrupp Ascenseurs;;03 25 79 90 55
+2490;;Ticketnet;0892 39 01 00;01 49 97 51 91
+2491;;Ticketnet;0825 12 91 39;01 46 91 58 40
+2492;;Tirendo;0826 10 13 31;01 80 96 37 72
+2493;;Tiscali;;01 41 66 77 00
+2494;Transporteurs;TNT;0825 07 10 71;02 31 23 42 00
+2495;Transporteurs;TNT;0008 25 03 30;01 48 14 44 20
+2496;Transporteurs;TNT;;01 48 14 44 62
+2497;Transporteurs;TNT;;04 42 81 99 99
+2498;Transporteurs;TNT;0825 07 10 71;04 37 25 47 10
+2499;Transporteurs;TNT;0825 03 30 33;05 53 47 67 10
+2500;Transporteurs;TNT;;04 90 39 92 00
+2501;Transporteurs;TNT;;01 64 76 61 81
+2502;Transporteurs;TNT;;01 30 79 22 40
+2503;Transporteurs;TNT;0825 03 30 33;04 75 82 91 31
+2504;Transporteurs;TNT;;03 44 91 41 41
+2505;Transporteurs;TNT;;04 94 27 86 40
+2506;Transporteurs;TNT Express;;01 48 84 46 14
+2507;Transporteurs;TNT Transport International;0825 07 10 71;01 48 14 48 43
+2508;Transporteurs;TNT transports express;0825 03 30 33;09 69 32 21 61
+2509;;TomTom;0811 02 51 24;01 70 36 35 82
+2510;;Toner Express;0008 26 62 01;03 20 23 20 00
+2511;;Tool Fitness;0008 26 62 88;01 75 64 33 70
+2512;;Topachat;0008 99 46 11;08 00 35 07 08
+2513;;Topachat;;01 41 77 65 05
+2514;;Toshiba;;09 69 32 64 84
+2515;;Total;0008 03 39 34;01 39 34 56 78
+2516;;Total;0825 09 32 09;01 57 84 00 50
+2517;;Total;;09 70 80 86 51
+2518;;Tout Pour l'Eau;0825 88 58 18;04 72 72 93 06
+2519;;Tout Pour La Micro;0891 70 05 55;04 37 23 56 01
+2520;;Toyota Assurance;0008 20 22 11;01 47 95 79 20
+2521;;Toyota France;0810 86 96 82;01 47 10 81 00
+2522;;TP-Link;0820 80 08 60;01 34 65 38 69
+2523;;TPS;;03 81 67 23 12
+2524;;traditions-perigord.com;0892 16 01 64;05 53 31 33 60
+2525;Voyages;Transavia;0892 05 88 88;09 72 72 00 32
+2526;Voyages;Transilien;;Voir SNCF
+2527;;Trésor du patrimoine;0008 92 35 05;02 32 22 22 22
+2528;Administrations;Trésor Public;;01 55 80 88 43
+2529;;Trésorerie du Contrôle Automatisé;0008 21 08 15;02 99 65 70 70
+2530;;Trombi.com;0825 33 82 23;09 69 39 01 34
+2531;;Trusk;;01 76 41 03 60
+2532;;Tryba;;04 37 24 14 14
+2533;Voyages;Ucar;0008 92 88 10;01 70 95 60 43
+2534;Voyages;UCPA;0008 99 68 05;04 72 56 90 96
+2535;Voyages;UCPA;0000 00 32 60;09 69 32 50 95
+2536;;UFC Que Choisir;;01 43 48 55 48
+2537;;UGC;;01 76 64 79 97
+2538;;UGC;;01 76 64 79 64
+2539;;Un-nom.com;0008 92 39 05;02 40 00 60 99
+2540;;Une Famille en Or;;01 46 62 38 04
+2541;;Union Territoriale Mutualité Ile de France;;01 40 46 11 39
+2542;;Unitec;0141 80 14 80;08 90 71 07 14
+2543;;unmonde.fr;0892 23 53 35;01 70 38 22 12
+2544;;UPC Noos-Numericable;0000 00 39 90;02 23 48 44 01
+2545;Transporteurs;UPS;0821 23 38 77;01 70 36 04 77
+2546;Transporteurs;UPS;0821 23 38 77;01 30 07 78 01
+2547;Transporteurs;UPS;0820 72 07 20;03 83 26 10 24
+2548;Transporteurs;UPS;0821 23 38 77;04 66 04 81 60
+2549;;URSA France SAS;;01 60 17 77 60
+2550;Administrations;URSSAF;0008 20 01 10;01 58 21 44 40
+2551;Administrations;URSSAF;;04 67 75 90 90
+2552;Administrations;URSSAF;0000 00 39 57;05 55 11 50 00
+2553;Administrations;URSSAF;0000 00 39 57;02 51 72 66 44
+2554;Administrations;URSSAF;0821 22 62 59;03 21 60 17 00
+2555;Administrations;URSSAF;;04 94 41 86 86
+2556;Administrations;URSSAF;0008 20 01 10;01 58 21 44 45
+2557;Administrations;URSSAF;0008 20 01 10;01 58 21 44 43
+2558;Administrations;URSSAF;0008 20 01 10;01 58 21 44 41
+2559;Administrations;URSSAF;;04 68 35 75 00
+2560;Administrations;URSSAF;;09 66 86 84 14
+2561;Administrations;URSSAF;0000 00 39 57;09 69 36 00 67
+2562;Voyages;Vacances Bleues;0825 87 09 29;04 91 00 96 88
+2563;Voyages;Vacances Héliade;0892 23 15 23;04 42 90 13 01
+2564;Voyages;Vacances pour tous;;04 78 42 14 68
+2565;Voyages;Vacanciel;0825 45 01 50;04 75 82 45 45
+2566;Assurances;Vauban Humanis;0811 91 99 19;03 20 63 36 36
+2567;;VBS Hobby Service;0892 70 02 55;03 26 78 08 84
+2568;Commerces;Veepee;0899 96 48 87;01 49 17 81 00
+2569;Commerces;Veepee;0008 92 70 77;08 10 52 01 87
+2570;;Velux;0008 21 02 15;09 70 80 88 77
+2571;;Vente en Or;0008 20 02 56;01 40 40 10 20
+2572;;vente-du-diable.com;0890 61 00 62;05 81 18 79 56
+2573;;Vente-privee.com;0008 92 70 77;08 10 52 01 87
+2574;;Vente-privee.com;0899 96 48 87;01 49 17 81 00
+2575;;vente-unique.com;0008 92 70 01;01 41 60 19 24
+2576;;vente-unique.com;0008 92 70 01;01 76 49 42 00
+2577;;Veolia;;01 75 71 00 00
+2578;;Veolia;0811 90 08 00;01 49 24 49 24
+2579;;Véolia;0810 00 07 77;04 37 20 24 70
+2580;;Veolia Eau;0811 90 09 00;01 43 97 51 99
+2581;;Veolia Eau;0811 01 02 16;03 52 81 00 11
+2582;;Veolia Eau;0811 90 04 00;09 69 36 04 00
+2583;;Véolia Eau;0811 90 05 00;09 69 32 35 52
+2584;;Véolia Eau;0811 90 08 00;02 32 30 30 25
+2585;;Véolia Eau;;09 69 32 34 58
+2586;;Véolia eau;;09 69 36 72 61
+2587;;Véolia Eau;0811 90 04 00;09 69 32 35 54
+2588;;Véolia Habitat;0821 08 27 35;01 41 49 17 94
+2589;;Veolia Habitat Services;0821 08 42 01;04 69 35 69 51
+2590;;Vertbaudet;0008 92 70 02;03 20 76 92 70
+2591;;Vertbaudet;0008 92 70 02;03 20 23 35 00
+2592;;Vertbaudet;0008 92 70 02;03 20 76 07 60
+2593;Voyages;Vfd Transisère;0008 20 08 38;04 76 60 46 37
+2594;Assurances;Via Humanis;0810 36 05 60;01 41 46 91 46
+2595;;Viaduc.fr;0008 20 20 20;02 41 48 57 32
+2596;;Viaduc.fr;0008 92 70 01;02 41 77 97 09
+2597;;Viaduc.fr;0008 92 70 01;02 41 39 51 98
+2598;;Viaticum;;01 42 61 66 61
+2599;;vidaXL.fr - Vida XL International B.V.;0826 96 91 66;01 40 27 16 00
+2600;;Viessmann;;05 62 19 20 30
+2601;;Viewsonic;;03 87 17 16 16
+2602;;Village Center;0008 25 00 20;04 67 18 36 59
+2603;;Vilogia;;03 59 35 50 00
+2604;;Vinci autoroutes;0825 82 08 88;09 70 82 08 30
+2605;;Vinci Autoroutes;0000 00 36 05;05 53 77 58 58
+2606;;Vinci Park Services;;04 68 47 64 83
+2607;;Virgin Mobile;0825 31 14 11;01 40 28 92 13
+2608;;Virgin Mobile;0825 31 14 11;01 41 38 10 00
+2609;;Virgin Mobile;;08 05 50 08 46
+2610;;Virgin Mobile;;09 78 97 98 46
+2611;Banques;Visa;;01 42 77 45 45
+2612;Banques;Visa Premier Assurance;;02 32 74 22 89
+2613;;Vitalaire;0825 00 70 04;01 41 80 19 10
+2614;;Vitrine Magique;;03 28 33 11 50
+2615;;Vitrine Magique - vitrinemagique.com;;09 69 36 01 23
+2616;;Vittavi Mutuelle;0008 25 82 57;05 62 73 55 56
+2617;Voyages;Vivacances;0008 92 35 03;01 70 98 92 18
+2618;;vivrenaturel.com;;03 91 83 27 90
+2619;Assurances;Voies Navigables de France;;04 68 46 92 09
+2620;Assurances;Voies Navigables France;;04 68 91 56 80
+2621;Voyages;Vol 24 - vol24.fr;;01 84 88 08 44
+2622;;Volkswagen;0826 55 52 55;09 69 36 86 41
+2623;Voyages;Voyage Chic;;01 73 10 00 09
+2624;Voyages;Voyage Privé;0008 92 05 00;04 42 64 36 22
+2625;Voyages;Voyage Privé;0008 92 05 00;04 86 22 00 50
+2626;Voyages;Voyage Privé;;01 71 25 67 67
+2627;Voyages;Voyage Privé;0008 92 05 00;01 76 49 30 30
+2628;Voyages;Voyage Privé France;0008 92 42 64;01 49 17 81 00
+2629;Voyages;Voyages Auchan;0810 01 51 15;05 61 26 73 73
+2630;Voyages;Voyages-sncf.com;;01 72 38 76 38
+2631;Voyages;Voyages-sncf.com;;01 72 38 76 38
+2632;Voyages;Voyages-sncf.com;0899 65 48 55;09 70 60 99 60
+2633;;VPC Bike;0825 39 21 24;02 40 48 63 08
+2634;;Vpcboost.com;;05 55 01 50 03
+2635;Voyages;Vueling;0899 23 24 00;08 00 90 54 61
+2636;Voyages;VVF Vacances;;04 68 48 33 57
+2637;;Wacksport;0008 92 68 05;03 87 29 26 90
+2638;;Wanadoo;0825 83 33 13;01 44 10 44 03
+2639;;Web Achat;0008 20 16 42;04 77 53 51 40
+2640;;Webdistrib.com;0008 92 68 32;03 62 72 71 00
+2641;;webserveur.com;0008 92 55 05;03 08 44 44 25
+2642;;Webtotravel;0899 14 08 70;01 47 70 85 75
+2643;;weekendesk.fr;;02 44 81 80 03
+2644;;Western Digital;0827 54 93 38;01 55 95 97 80
+2645;Banques;Western Union;;08 00 90 01 91
+2646;;Whirlpool;0892 02 88 04;09 69 39 01 20
+2647;;Willemse;0008 92 70 02;03 20 25 42 25
+2648;;WithTime - With.fr;0811 26 08 88;02 53 46 99 22
+2649;;Witt International;0892 35 02 00;09 69 39 02 12
+2650;;Wolters;0825 08 08 00;01 76 73 30 00
+2651;;Xbox;0800 91 52 74;01 55 69 80 61
+2652;Voyages;XL Airways;0892 23 13 00;03 22 19 25 04
+2653;;Yakarouler.com;0826 96 96 00;01 77 49 08 40
+2654;;Youmeuble.com;;09 67 44 33 39
+2655;;Yves Rocher;0008 92 02 51;08 00 88 05 56
+2656;;Yves Rocher;0008 11 90 24;02 99 08 28 40
+2657;;Zakral;0805 69 61 34;04 11 93 40 48
+2658;;Zéro Forfait;;09 70 80 60 40
+2659;;Zoomalia.com;0008 92 49 40;05 64 11 03 74
+2660;;Yves Rocher;0008 92 02 51;08 05 02 30 40
+2661;;Yves Rocher;0008 92 02 51;08 05 02 00 80
